@@ -1904,3 +1904,393 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.04.14-19.03.17:602][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_1
 [2024.04.14-19.03.17:602][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE82CEC01_1094170121
 [2024.04.14-19.03.17:618][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE82CEC01_1122330122
+[2024.04.14-19.03.56:220][443]Cmd: EDIT COPY
+[2024.04.14-19.03.56:429][447]Cmd: EDIT PASTE
+[2024.04.14-19.04.35:573][650]Cmd: TRANSACTION UNDO
+[2024.04.14-19.04.35:573][650]LogEditorTransaction: Undo Move Elements
+[2024.04.14-19.04.53:094][ 57]Cmd: EDIT COPY
+[2024.04.14-19.04.53:281][ 74]Cmd: EDIT PASTE
+[2024.04.14-19.04.57:768][426]Cmd: TRANSACTION UNDO
+[2024.04.14-19.04.57:769][426]LogEditorTransaction: Undo Move Elements
+[2024.04.14-19.05.58:360][306]LogContentBrowser: Attempting asset rename: Bar -> Building_2
+[2024.04.14-19.06.09:720][306]LogMetaData: Removing '/Game/Joanna/Building_2.Building_2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Joanna/Bar.PackageMetaData'
+[2024.04.14-19.06.09:720][306]LogMetaData: Removing '/Game/Joanna/Building_2.SKEL_Building_2_C' ref from Metadata '/Game/Joanna/Bar.PackageMetaData'
+[2024.04.14-19.06.09:720][306]LogMetaData: Removing '/Game/Joanna/Building_2.Building_2_C' ref from Metadata '/Game/Joanna/Bar.PackageMetaData'
+[2024.04.14-19.06.09:720][306]LogMetaData: Removing '/Game/Joanna/Building_2.Building_2:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Joanna/Bar.PackageMetaData'
+[2024.04.14-19.06.09:720][306]LogMetaData: Removing '/Game/Joanna/Building_2.Building_2:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Joanna/Bar.PackageMetaData'
+[2024.04.14-19.06.09:720][306]LogMetaData: Removing '/Game/Joanna/Building_2.Building_2:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Joanna/Bar.PackageMetaData'
+[2024.04.14-19.06.09:720][306]LogMetaData: Removing '/Game/Joanna/Building_2.SKEL_Building_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Joanna/Bar.PackageMetaData'
+[2024.04.14-19.06.09:720][306]LogMetaData: Removing '/Game/Joanna/Building_2.SKEL_Building_2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Joanna/Bar.PackageMetaData'
+[2024.04.14-19.06.09:720][306]LogMetaData: Removing '/Game/Joanna/Building_2.SKEL_Building_2_C:ReceiveTick' ref from Metadata '/Game/Joanna/Bar.PackageMetaData'
+[2024.04.14-19.06.09:720][306]LogMetaData: Removing '/Game/Joanna/Building_2.SKEL_Building_2_C:UserConstructionScript' ref from Metadata '/Game/Joanna/Bar.PackageMetaData'
+[2024.04.14-19.06.09:979][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.06.10:089][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Building_2" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_2.uasset" SILENT=true
+[2024.04.14-19.06.10:196][306]LogSavePackage: Moving output files for package: /Game/Joanna/Building_2
+[2024.04.14-19.06.10:196][306]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Building_2A774A61D4B89D0E1BBE614A3D084382E.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_2.uasset'
+[2024.04.14-19.06.10:381][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Bar" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Bar.uasset" SILENT=true
+[2024.04.14-19.06.10:399][306]LogSavePackage: Moving output files for package: /Game/Joanna/Bar
+[2024.04.14-19.06.10:399][306]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Bar545A21C2463B14C643FFC0AF0803268D.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Bar.uasset'
+[2024.04.14-19.06.10:406][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 427 ms (total: 3.27 sec)
+[2024.04.14-19.06.10:446][306]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-19.06.10:446][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Joanna/Building_2.Building_2
+[2024.04.14-19.06.10:446][306]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Joanna/Bar.Bar
+[2024.04.14-19.06.10:446][306]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Joanna/Bar.Bar_C
+[2024.04.14-19.06.10:446][306]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Joanna/Bar.Default__Bar_C
+[2024.04.14-19.06.10:446][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.06.12:588][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.06.12:763][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.14-19.06.12:815][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.14-19.06.12:884][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.14-19.06.12:890][434]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/1/2C/HPTO5KWIFL8YW5D4L4Z6Z2
+[2024.04.14-19.06.12:890][434]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/HPTO5KWIFL8YW5D4L4Z6Z2EA9192D84C1804DD08675A9DFFC85B45.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/1/2C/HPTO5KWIFL8YW5D4L4Z6Z2.uasset'
+[2024.04.14-19.06.12:892][434]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/5/7A/QKCYRXNUGUT4AQ1W2N2W7C
+[2024.04.14-19.06.12:893][434]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/QKCYRXNUGUT4AQ1W2N2W7C697827C24330445B4CC666AB5663E7D3.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/5/7A/QKCYRXNUGUT4AQ1W2N2W7C.uasset'
+[2024.04.14-19.06.12:901][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 312 ms (total: 3.58 sec)
+[2024.04.14-19.06.12:963][434]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-19.06.12:963][434]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE830EC01_1440410828
+[2024.04.14-19.06.12:963][434]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE830EC01_1497198829
+[2024.04.14-19.06.14:585][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.14-19.06.19:163][531]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.14-19.06.23:104][531]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Joanna/building_1.building_1
+	Asset Type: Blueprint
+[2024.04.14-19.06.29:898][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_7 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/D/UV/UVCB7Q97KCY883BLVRJOQK.PackageMetaData in its package
+[2024.04.14-19.06.29:898][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_24 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/D/PX/Z480JO8Y214ECAWUOWJOW2.PackageMetaData in its package
+[2024.04.14-19.06.29:898][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_32 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/C/Y7/3OR3WPDY0GP223SPOTK79B.PackageMetaData in its package
+[2024.04.14-19.06.29:898][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_4 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/C/80/6D8VVOB07JAIQWD6CRRKWW.PackageMetaData in its package
+[2024.04.14-19.06.29:898][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_21 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/9/VR/EH12UR06W0F463Q6GHQ8AZ.PackageMetaData in its package
+[2024.04.14-19.06.29:898][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_22 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/9/QZ/EDJ6UDJF07DYKTSI7M7KEV.PackageMetaData in its package
+[2024.04.14-19.06.29:898][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_18 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/7/85/5DONU8MHMNX5MW2340LZ8N.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_9 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/7/4T/16IU2LNQGY9HOCH0SL6WDU.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_16 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/6/7O/6LRGKQH9YK0N31J58ZFPKK.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_23 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/4/M2/ZPCFSA2BX80M64GYBUK42X.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_12 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/4/IE/FQTK6DX15KR82DFHCP7OPM.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_19 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/7/09/Q8SGB6TF4AXIG5DWUQYMAI.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_15 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/2/NC/V9F8JSWPBR1I00LWRA8W91.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_13 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/2/2M/4GH50U63W92X65721B4J7R.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_14 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/2/5F/CR5HJN0BESU9O1LY5NEOH5.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_6 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/1/MW/9K2FUMVCFUK7BIGAAY2OGO.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_25 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/1/H5/IMW3ZYV4AEF7RJDLPERXQU.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_35 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/1/BQ/EOIIQRPGZTKFCA6TQY9JM2.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_20 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/0/IN/F4MB843NWMPPB4WY9N0M9B.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE827EC01_1413583240 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/6/61/BQ5R2GUL49LHQSQR387CCV.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_33 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/E/ZR/R1EU5B9Y5Q49KVNF2GLQG1.PackageMetaData in its package
+[2024.04.14-19.06.29:899][531]LogWorldPartition: Actor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_34 is unreachable without properly detaching object /Game/__ExternalActors__/Joanna/JoannaMaps/E/MC/APY3NM11LTKC481IMDJSEA.PackageMetaData in its package
+[2024.04.14-19.06.30:469][531]LogUObjectHash: Compacting FUObjectHashTables data took  16.34ms
+[2024.04.14-19.06.30:990][531]LogUObjectHash: Compacting FUObjectHashTables data took  15.76ms
+[2024.04.14-19.06.31:028][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.14-19.06.31:094][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.14-19.06.31:227][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.14-19.06.34:254][719]LogContentBrowser: Deferred new asset file creation: Building_3
+[2024.04.14-19.06.34:345][719]LogContentBrowser: Creating deferred item: Building_3
+[2024.04.14-19.06.34:447][720]LogContentBrowser: Renaming the item being created (Deferred Item: Building_3).
+[2024.04.14-19.06.37:195][914]LogContentBrowser: Attempting asset rename: Building_3 -> Building_1
+[2024.04.14-19.06.37:613][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.04.14-19.06.37:761][914]LogContentBrowser: End creating deferred item Building_3
+[2024.04.14-19.06.39:224][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Joanna/Building_1.Building_1
+[2024.04.14-19.06.39:225][ 14]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.06.39:225][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-19.06.42:705][139]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2024.04.14-19.07.09:461][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.07.09:571][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Building_1" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_1.uasset" SILENT=true
+[2024.04.14-19.07.09:627][549]LogSavePackage: Moving output files for package: /Game/Joanna/Building_1
+[2024.04.14-19.07.09:627][549]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Building_14FEBBCF94296C14CB41C5C88A997C0DD.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_1.uasset'
+[2024.04.14-19.07.09:656][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 3.78 sec)
+[2024.04.14-19.07.09:657][549]AssetCheck: New page: Asset Save: Building_1
+[2024.04.14-19.07.09:657][549]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Joanna/Building_1.Building_1
+[2024.04.14-19.07.12:913][756]LogSlate: Window 'Building_1' being destroyed
+[2024.04.14-19.07.12:919][756]LogSlate: Window 'Building_1' being destroyed
+[2024.04.14-19.07.12:923][756]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-19.07.12:924][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-19.07.14:859][881]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_1.Building_1_C
+[2024.04.14-19.07.14:859][881]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_1.Building_1_C
+[2024.04.14-19.07.14:945][881]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_1.Building_1 as actor: Building_1_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_1_C_0
+[2024.04.14-19.07.15:041][881]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_1.Building_1 as actor: Building_1_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_1_C_0
+[2024.04.14-19.07.18:858][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_1.Building_1_C
+[2024.04.14-19.07.18:858][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_1.Building_1_C
+[2024.04.14-19.07.18:886][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_1.Building_1 as actor: Building_1_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_1_C_UAID_E0D55E6D5EE830EC01_1642775830
+[2024.04.14-19.07.18:985][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_1.Building_1 as actor: Building_1_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_1_C_UAID_E0D55E6D5EE830EC01_1642775830
+[2024.04.14-19.07.54:560][642]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: ================================================
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: Total job queries 129, among them cache hits 13 (10.08%)
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: Tracking 112 distinct input hashes that result in 76 distinct outputs (67.86%)
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: RAM used: 2,30 MiB of 819,20 MiB budget. Usage: 0.28%
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: Shaders Compiled: 78
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: Jobs assigned 78, completed 78 (100%)
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: Average time worker was idle: 1076.21 s
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.75 s
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: Job execution time: average 0.70 s, max 3.59 s
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: Job life time (pending + execution): average 0.79 s, max 3.72
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: Shader code size: average 32,55 KiB, min 3,559 KiB, max 45,199 KiB
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.50 s
+[2024.04.14-19.07.58:614][642]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display: Average processing rate: 6.24 jobs/sec
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display: Total thread time: 24,135 s
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display: Total thread preprocess time: 2,606 s
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display: Percentage time preprocessing: 10.80%
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display: Effective parallelization: 1.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    4 times, average 0.39 sec, max 0.40 sec, min 0.38 sec)
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    5 times, average 0.36 sec, max 0.45 sec, min 0.24 sec)
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 0.35 sec, max 0.45 sec, min 0.26 sec)
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 0.34 sec, max 0.45 sec, min 0.23 sec)
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    5 times, average 0.32 sec, max 0.41 sec, min 0.23 sec)
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.41% of total time (compiled   16 times, average 0.35 sec, max 0.45 sec, min 0.26 sec)
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.33% of total time (compiled   16 times, average 0.34 sec, max 0.45 sec, min 0.23 sec)
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.66% of total time (compiled   10 times, average 0.31 sec, max 0.36 sec, min 0.25 sec)
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.38% of total time (compiled    5 times, average 0.36 sec, max 0.45 sec, min 0.24 sec)
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display:                                                  FVelocityVS - 6.57% of total time (compiled    5 times, average 0.32 sec, max 0.41 sec, min 0.23 sec)
+[2024.04.14-19.07.58:636][642]LogShaderCompilers: Display: ================================================
+[2024.04.14-19.09.14:461][644]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Joanna/Building_1.Building_1
+[2024.04.14-19.09.14:461][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.09.14:461][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-19.09.16:335][731]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2024.04.14-19.10.59:730][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.10.59:829][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Building_1" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_1.uasset" SILENT=true
+[2024.04.14-19.10.59:867][902]LogSavePackage: Moving output files for package: /Game/Joanna/Building_1
+[2024.04.14-19.10.59:868][902]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Building_1F899950449EF05B9AD4EB7BD3FD2E6D8.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_1.uasset'
+[2024.04.14-19.10.59:874][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 3.92 sec)
+[2024.04.14-19.10.59:883][902]AssetCheck: New page: Asset Save: Building_1
+[2024.04.14-19.10.59:883][902]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Joanna/Building_1.Building_1
+[2024.04.14-19.11.01:535][999]LogSlate: Window 'Building_1' being destroyed
+[2024.04.14-19.11.01:542][999]LogSlate: Window 'Building_1' being destroyed
+[2024.04.14-19.11.01:547][999]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-19.11.01:547][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-19.11.52:855][843]Cmd: EDIT COPY
+[2024.04.14-19.11.53:042][859]Cmd: EDIT PASTE
+[2024.04.14-19.12.30:591][379]Cmd: EDIT COPY
+[2024.04.14-19.12.30:783][395]Cmd: EDIT PASTE
+[2024.04.14-19.13.36:073][445]Cmd: EDIT COPY
+[2024.04.14-19.13.36:335][463]Cmd: EDIT PASTE
+[2024.04.14-19.14.17:961][459]Cmd: DELETE
+[2024.04.14-19.14.17:961][459]Cmd: ACTOR DELETE
+[2024.04.14-19.14.17:978][459]LogEditorActor: Deleted Actor: Building_1_C
+[2024.04.14-19.14.18:436][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.04.14-19.14.18:501][459]LogEditorActor: Deleted 1 Actors (0.541 secs)
+[2024.04.14-19.14.21:198][701]LogContentBrowser: Deferred new asset file creation: Building_3
+[2024.04.14-19.14.21:216][701]LogContentBrowser: Creating deferred item: Building_3
+[2024.04.14-19.14.21:225][702]LogContentBrowser: Renaming the item being created (Deferred Item: Building_3).
+[2024.04.14-19.14.21:950][764]LogContentBrowser: Attempting asset rename: Building_3 -> Building_3
+[2024.04.14-19.14.21:991][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.14-19.14.22:034][764]LogContentBrowser: End creating deferred item Building_3
+[2024.04.14-19.14.22:036][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.14.23:305][857]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Joanna/Building_3.Building_3
+[2024.04.14-19.14.23:305][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.14.23:305][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-19.14.24:903][946]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2024.04.14-19.18.11:269][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.18.11:355][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Building_3" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_3.uasset" SILENT=true
+[2024.04.14-19.18.11:407][349]LogSavePackage: Moving output files for package: /Game/Joanna/Building_3
+[2024.04.14-19.18.11:408][349]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Building_3A47EF3C74248F724737A039F9D7CA42D.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_3.uasset'
+[2024.04.14-19.18.11:429][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 4.08 sec)
+[2024.04.14-19.18.11:429][349]AssetCheck: New page: Asset Save: Building_3
+[2024.04.14-19.18.11:429][349]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Joanna/Building_3.Building_3
+[2024.04.14-19.18.12:942][444]LogSlate: Window 'Building_3' being destroyed
+[2024.04.14-19.18.12:947][444]LogSlate: Window 'Building_3' being destroyed
+[2024.04.14-19.18.12:952][444]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-19.18.12:952][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-19.18.14:811][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_3.Building_3_C
+[2024.04.14-19.18.14:812][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_3.Building_3_C
+[2024.04.14-19.18.14:894][566]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_3.Building_3 as actor: Building_3_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_3_C_0
+[2024.04.14-19.18.14:988][566]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_3.Building_3 as actor: Building_3_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_3_C_0
+[2024.04.14-19.18.16:689][653]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_3.Building_3_C
+[2024.04.14-19.18.16:689][653]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_3.Building_3_C
+[2024.04.14-19.18.16:715][653]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_3.Building_3 as actor: Building_3_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_3_C_UAID_E0D55E6D5EE831EC01_1226865010
+[2024.04.14-19.18.16:814][653]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_3.Building_3 as actor: Building_3_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_3_C_UAID_E0D55E6D5EE831EC01_1226865010
+[2024.04.14-19.18.51:848][928]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Joanna/Building_3.Building_3
+[2024.04.14-19.18.51:849][928]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.18.51:849][928]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-19.18.53:524][ 12]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2024.04.14-19.20.52:062][722]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.14-19.21.35:038][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.21.35:126][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Building_3" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_3.uasset" SILENT=true
+[2024.04.14-19.21.35:173][680]LogSavePackage: Moving output files for package: /Game/Joanna/Building_3
+[2024.04.14-19.21.35:174][680]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Building_33B4286A0478D0E93E61A99BB0CEE8BBB.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_3.uasset'
+[2024.04.14-19.21.35:191][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 4.24 sec)
+[2024.04.14-19.21.35:193][680]AssetCheck: New page: Asset Save: Building_3
+[2024.04.14-19.21.35:193][680]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Joanna/Building_3.Building_3
+[2024.04.14-19.21.36:435][753]LogSlate: Window 'Building_3' being destroyed
+[2024.04.14-19.21.36:440][753]LogSlate: Window 'Building_3' being destroyed
+[2024.04.14-19.21.36:445][753]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-19.21.36:445][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-19.22.05:114][994]Cmd: EDIT COPY
+[2024.04.14-19.22.05:328][ 10]Cmd: EDIT PASTE
+[2024.04.14-19.22.20:130][132]Cmd: EDIT COPY
+[2024.04.14-19.22.20:337][147]Cmd: EDIT PASTE
+[2024.04.14-19.22.37:941][431]LogDerivedDataCache: C:/Users/Asia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.667 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9508 files in 11414 folders with total size 1892 MiB.
+[2024.04.14-19.23.21:990][528]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Joanna/Building_1.Building_1
+[2024.04.14-19.23.21:990][528]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.23.21:991][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-19.23.23:697][612]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2024.04.14-19.23.40:808][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.23.40:895][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Building_1" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_1.uasset" SILENT=true
+[2024.04.14-19.23.40:933][381]LogSavePackage: Moving output files for package: /Game/Joanna/Building_1
+[2024.04.14-19.23.40:933][381]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Building_1CE55EA844E9D2AA2A4B47CBC961C4939.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_1.uasset'
+[2024.04.14-19.23.40:942][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 4.37 sec)
+[2024.04.14-19.23.40:943][381]AssetCheck: New page: Asset Save: Building_1
+[2024.04.14-19.23.40:943][381]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Joanna/Building_1.Building_1
+[2024.04.14-19.23.42:150][449]LogSlate: Window 'Building_1' being destroyed
+[2024.04.14-19.23.42:156][449]LogSlate: Window 'Building_1' being destroyed
+[2024.04.14-19.23.42:161][449]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-19.23.42:161][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-19.24.09:810][494]Cmd: EDIT COPY
+[2024.04.14-19.24.10:033][511]Cmd: EDIT PASTE
+[2024.04.14-19.25.09:546][556]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Joanna/Building_3.Building_3
+[2024.04.14-19.25.09:546][556]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.25.09:546][556]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-19.25.11:388][645]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2024.04.14-19.25.18:026][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.25.18:124][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Building_3" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_3.uasset" SILENT=true
+[2024.04.14-19.25.18:173][973]LogSavePackage: Moving output files for package: /Game/Joanna/Building_3
+[2024.04.14-19.25.18:173][973]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Building_3F9E0AD9844F39D220993238D99336A91.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_3.uasset'
+[2024.04.14-19.25.18:182][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 4.53 sec)
+[2024.04.14-19.25.18:184][973]AssetCheck: New page: Asset Save: Building_3
+[2024.04.14-19.25.18:184][973]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Joanna/Building_3.Building_3
+[2024.04.14-19.25.19:166][ 33]LogSlate: Window 'Building_3' being destroyed
+[2024.04.14-19.25.19:170][ 33]LogSlate: Window 'Building_3' being destroyed
+[2024.04.14-19.25.19:175][ 33]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-19.25.19:175][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-19.25.52:337][537]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Joanna/Building_3.Building_3
+[2024.04.14-19.25.52:338][537]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.25.52:356][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-19.25.54:184][625]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2024.04.14-19.26.30:809][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.26.30:887][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Building_3" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_3.uasset" SILENT=true
+[2024.04.14-19.26.30:933][428]LogSavePackage: Moving output files for package: /Game/Joanna/Building_3
+[2024.04.14-19.26.30:934][428]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Building_3DF21007A4A180BC97C882BABCAF73619.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_3.uasset'
+[2024.04.14-19.26.30:942][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 4.66 sec)
+[2024.04.14-19.26.30:945][428]AssetCheck: New page: Asset Save: Building_3
+[2024.04.14-19.26.30:945][428]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Joanna/Building_3.Building_3
+[2024.04.14-19.26.32:299][503]LogSlate: Window 'Building_3' being destroyed
+[2024.04.14-19.26.32:303][503]LogSlate: Window 'Building_3' being destroyed
+[2024.04.14-19.26.32:308][503]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-19.26.32:308][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-19.27.13:126][493]Cmd: EDIT COPY
+[2024.04.14-19.27.13:349][509]Cmd: EDIT PASTE
+[2024.04.14-19.28.05:716][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.28.06:536][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.04.14-19.28.06:644][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.14-19.28.06:674][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.14-19.28.06:677][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/5/7A/QKCYRXNUGUT4AQ1W2N2W7C
+[2024.04.14-19.28.06:677][699]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/QKCYRXNUGUT4AQ1W2N2W7CC2DDC15C43EE164D741D2F9636314077.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/5/7A/QKCYRXNUGUT4AQ1W2N2W7C.uasset'
+[2024.04.14-19.28.06:680][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/1/2C/HPTO5KWIFL8YW5D4L4Z6Z2
+[2024.04.14-19.28.06:680][699]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/HPTO5KWIFL8YW5D4L4Z6Z20C61B29F413889A7022120AE183912E1.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/1/2C/HPTO5KWIFL8YW5D4L4Z6Z2.uasset'
+[2024.04.14-19.28.06:682][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/D/N4/LWSTMVEG7PNEUPKSM8YNRV
+[2024.04.14-19.28.06:683][699]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/LWSTMVEG7PNEUPKSM8YNRV0F2BD14F4214992FAD85E08358756E7A.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/D/N4/LWSTMVEG7PNEUPKSM8YNRV.uasset'
+[2024.04.14-19.28.06:719][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/0/D7/5YY7R12611U855S6LUXAGF
+[2024.04.14-19.28.06:719][699]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/5YY7R12611U855S6LUXAGF89A66E3D443FBE5B0F1FA195F1AB4775.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/0/D7/5YY7R12611U855S6LUXAGF.uasset'
+[2024.04.14-19.28.06:759][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/6/XW/RG9VHDKMY6B7JE1BVVEAFM
+[2024.04.14-19.28.06:759][699]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/RG9VHDKMY6B7JE1BVVEAFM5D19338D498B30BE9CAB18820DB16590.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/6/XW/RG9VHDKMY6B7JE1BVVEAFM.uasset'
+[2024.04.14-19.28.06:761][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/A/26/68WFDWJ3ZS6NIF6EFN7OIE
+[2024.04.14-19.28.06:761][699]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/68WFDWJ3ZS6NIF6EFN7OIEB23CE0C24A2A1E3F9AC63683EA5434E7.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/A/26/68WFDWJ3ZS6NIF6EFN7OIE.uasset'
+[2024.04.14-19.28.06:806][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/4/Q5/U21N5KMR06C2E23C9FPZ3Q
+[2024.04.14-19.28.06:806][699]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/U21N5KMR06C2E23C9FPZ3Q3E54F2FF43ED6FF24715079004F75AE2.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/4/Q5/U21N5KMR06C2E23C9FPZ3Q.uasset'
+[2024.04.14-19.28.06:831][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/7/G3/LPD9XRXV3WQ3I91OQCOGE7
+[2024.04.14-19.28.06:831][699]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/LPD9XRXV3WQ3I91OQCOGE75E8794574B4915922B2525B6241151AB.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/7/G3/LPD9XRXV3WQ3I91OQCOGE7.uasset'
+[2024.04.14-19.28.06:833][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/1/WO/31XM5HY5FIT9EOICSY217H
+[2024.04.14-19.28.06:833][699]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/31XM5HY5FIT9EOICSY217H19821B514FF22C63F298A791CD3B8B59.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/1/WO/31XM5HY5FIT9EOICSY217H.uasset'
+[2024.04.14-19.28.06:878][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/5/OB/VPBLH5TOG4NO7I6Q1UD24U
+[2024.04.14-19.28.06:878][699]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/VPBLH5TOG4NO7I6Q1UD24U7758D90B4D123E7FE6ACDE9C6D7144C2.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/5/OB/VPBLH5TOG4NO7I6Q1UD24U.uasset'
+[2024.04.14-19.28.06:880][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/9/ON/BDMPEIL7498WG9Q9J5Z1IR
+[2024.04.14-19.28.06:880][699]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/BDMPEIL7498WG9Q9J5Z1IR8C6848B248EF7F36266006B14E807E70.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/9/ON/BDMPEIL7498WG9Q9J5Z1IR.uasset'
+[2024.04.14-19.28.06:889][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.17 sec (total: 5.83 sec)
+[2024.04.14-19.28.06:954][699]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-19.28.06:954][699]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE830EC01_1497198829
+[2024.04.14-19.28.06:954][699]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE830EC01_1440410828
+[2024.04.14-19.28.06:954][699]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+[2024.04.14-19.28.06:954][699]LogContentValidation: Display: Validating /Game/Joanna/Building_1.Building_1_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_1_C_UAID_E0D55E6D5EE830EC01_1642775830
+[2024.04.14-19.28.06:954][699]LogContentValidation: Display: Validating /Game/Joanna/Building_1.Building_1_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_1_C_UAID_E0D55E6D5EE830EC01_1916960831
+[2024.04.14-19.28.06:954][699]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE830EC01_1954701832
+[2024.04.14-19.28.06:954][699]LogContentValidation: Display: Validating /Game/Joanna/Building_3.Building_3_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_3_C_UAID_E0D55E6D5EE831EC01_1226865010
+[2024.04.14-19.28.06:954][699]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE831EC01_1455505011
+[2024.04.14-19.28.06:954][699]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE831EC01_1470514012
+[2024.04.14-19.28.06:954][699]LogContentValidation: Display: Validating /Game/Joanna/Building_3.Building_3_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_3_C_UAID_E0D55E6D5EE831EC01_1580211013
+[2024.04.14-19.28.06:954][699]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE831EC01_1763526014
+[2024.04.14-19.30.03:843][173]LogContentBrowser: Deferred new asset file creation: Building_4
+[2024.04.14-19.30.03:916][173]LogContentBrowser: Creating deferred item: Building_4
+[2024.04.14-19.30.03:957][174]LogContentBrowser: Renaming the item being created (Deferred Item: Building_4).
+[2024.04.14-19.30.04:581][219]LogContentBrowser: Attempting asset rename: Building_4 -> Building_4
+[2024.04.14-19.30.04:651][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.14-19.30.04:694][219]LogContentBrowser: End creating deferred item Building_4
+[2024.04.14-19.30.04:697][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.30.06:829][373]Cmd: DELETE
+[2024.04.14-19.30.06:829][373]Cmd: ACTOR DELETE
+[2024.04.14-19.30.06:836][373]LogEditorActor: Deleted Actor: Building_3_C
+[2024.04.14-19.30.06:890][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.14-19.30.06:893][373]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2024.04.14-19.30.08:292][468]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_4.Building_4_C
+[2024.04.14-19.30.08:292][468]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_4.Building_4_C
+[2024.04.14-19.30.08:394][468]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_4.Building_4 as actor: Building_4_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_4_C_0
+[2024.04.14-19.30.08:512][468]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_4.Building_4 as actor: Building_4_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_4_C_0
+[2024.04.14-19.30.08:793][468]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_4.Building_4_C
+[2024.04.14-19.30.08:793][468]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_4.Building_4_C
+[2024.04.14-19.30.08:826][468]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_4.Building_4 as actor: Building_4_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_4_C_UAID_E0D55E6D5EE831EC01_1938969015
+[2024.04.14-19.30.08:957][468]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_4.Building_4 as actor: Building_4_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_4_C_UAID_E0D55E6D5EE831EC01_1938969015
+[2024.04.14-19.31.01:339][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Joanna/Building_4.Building_4
+[2024.04.14-19.31.01:340][210]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.31.01:340][210]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-19.31.02:881][282]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2024.04.14-19.32.25:632][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.32.25:768][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Building_4" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_4.uasset" SILENT=true
+[2024.04.14-19.32.25:815][250]LogSavePackage: Moving output files for package: /Game/Joanna/Building_4
+[2024.04.14-19.32.25:815][250]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Building_4C527D6CA41B579A6826A01840ED3135C.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_4.uasset'
+[2024.04.14-19.32.25:834][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 6.03 sec)
+[2024.04.14-19.32.25:834][250]AssetCheck: New page: Asset Save: Building_4
+[2024.04.14-19.32.25:835][250]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Joanna/Building_4.Building_4
+[2024.04.14-19.32.27:340][335]LogSlate: Window 'Building_4' being destroyed
+[2024.04.14-19.32.27:345][335]LogSlate: Window 'Building_4' being destroyed
+[2024.04.14-19.32.27:350][335]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-19.32.27:350][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-19.32.55:099][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.32.55:376][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.04.14-19.32.55:444][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.14-19.32.55:480][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.14-19.32.55:484][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/1/2C/HPTO5KWIFL8YW5D4L4Z6Z2
+[2024.04.14-19.32.55:484][307]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/HPTO5KWIFL8YW5D4L4Z6Z2382156EC48F178B230BAB992CD642702.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/1/2C/HPTO5KWIFL8YW5D4L4Z6Z2.uasset'
+[2024.04.14-19.32.55:486][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/9/ON/BDMPEIL7498WG9Q9J5Z1IR
+[2024.04.14-19.32.55:486][307]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/BDMPEIL7498WG9Q9J5Z1IR52268DA94D2B1D6B9560C6AB7389AFD8.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/9/ON/BDMPEIL7498WG9Q9J5Z1IR.uasset'
+[2024.04.14-19.32.55:532][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/4/Q5/U21N5KMR06C2E23C9FPZ3Q
+[2024.04.14-19.32.55:532][307]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/U21N5KMR06C2E23C9FPZ3QBA867DA2477DCCDAC7782194BF6262C7.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/4/Q5/U21N5KMR06C2E23C9FPZ3Q.uasset'
+[2024.04.14-19.32.55:534][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/7/G3/LPD9XRXV3WQ3I91OQCOGE7
+[2024.04.14-19.32.55:535][307]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/LPD9XRXV3WQ3I91OQCOGE7CBB42E2F4CC06B09D3829A8F567D0662.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/7/G3/LPD9XRXV3WQ3I91OQCOGE7.uasset'
+[2024.04.14-19.32.55:536][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/1/WO/31XM5HY5FIT9EOICSY217H
+[2024.04.14-19.32.55:537][307]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/31XM5HY5FIT9EOICSY217HBA2847914E888FD4C647598C219A182C.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/1/WO/31XM5HY5FIT9EOICSY217H.uasset'
+[2024.04.14-19.32.55:595][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/8/AW/F5V7EQBVDX3N2X6UWZU251
+[2024.04.14-19.32.55:595][307]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/F5V7EQBVDX3N2X6UWZU2511858D20C4060C2473478DB9BE4E93926.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/8/AW/F5V7EQBVDX3N2X6UWZU251.uasset'
+[2024.04.14-19.32.55:617][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 517 ms (total: 6.55 sec)
+[2024.04.14-19.32.55:627][307]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-19.32.55:627][307]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE830EC01_1440410828
+[2024.04.14-19.32.55:627][307]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE831EC01_1763526014
+[2024.04.14-19.32.55:627][307]LogContentValidation: Display: Validating /Game/Joanna/Building_3.Building_3_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_3_C_UAID_E0D55E6D5EE831EC01_1226865010
+[2024.04.14-19.32.55:627][307]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE831EC01_1455505011
+[2024.04.14-19.32.55:627][307]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE831EC01_1470514012
+[2024.04.14-19.32.55:627][307]LogContentValidation: Display: Validating /Game/Joanna/Building_4.Building_4_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_4_C_UAID_E0D55E6D5EE831EC01_1938969015
+[2024.04.14-19.33.23:546][481]Cmd: EDIT CUT
+[2024.04.14-19.33.23:585][481]LogEditorActor: Deleted Actor: Building_1_C
+[2024.04.14-19.33.23:661][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.14-19.33.23:665][481]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2024.04.14-19.33.25:310][622]Cmd: TRANSACTION UNDO
+[2024.04.14-19.33.25:310][622]LogEditorTransaction: Undo Cut
+[2024.04.14-19.33.27:416][747]Cmd: EDIT COPY
+[2024.04.14-19.33.27:643][762]Cmd: EDIT PASTE
+[2024.04.14-19.34.16:573][251]Cmd: DELETE
+[2024.04.14-19.34.16:574][251]Cmd: ACTOR DELETE
+[2024.04.14-19.34.16:574][251]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.04.14-19.34.16:581][251]LogEditorActor: Deleted Actor: Building_1_C
+[2024.04.14-19.34.16:699][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.14-19.34.16:722][251]LogEditorActor: Deleted 1 Actors (0.149 secs)
+[2024.04.14-19.34.20:268][566]LogContentBrowser: Deferred new asset file creation: Building_5
+[2024.04.14-19.34.20:279][566]LogContentBrowser: Creating deferred item: Building_5
+[2024.04.14-19.34.20:289][567]LogContentBrowser: Renaming the item being created (Deferred Item: Building_5).
+[2024.04.14-19.34.21:194][636]LogContentBrowser: Attempting asset rename: Building_5 -> Building_5
+[2024.04.14-19.34.21:257][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.14-19.34.21:301][636]LogContentBrowser: End creating deferred item Building_5
+[2024.04.14-19.34.21:304][636]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.34.28:009][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.34.28:097][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.14-19.34.28:130][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.14-19.34.28:167][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.14-19.34.28:175][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 6.72 sec)
