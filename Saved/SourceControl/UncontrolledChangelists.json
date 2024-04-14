@@ -330,6 +330,8 @@
 				"D:/LevelCyberpunk/Content/FirstPersonArms/Animations/FP_Idle.uasset",
 				"D:/LevelCyberpunk/Content/FirstPersonArms/Animations/FP_Falling.uasset",
 				"D:/LevelCyberpunk/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"D:/LevelCyberpunk/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"D:/LevelCyberpunk/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"D:/LevelCyberpunk/Content/Marcel/Character/Ue4ASP_Character.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Input/Actions/IA_J.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Input/Actions/IA_L.uasset",
