@@ -3228,3 +3228,59 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Set Crouch Button D
 [2024.04.14-12.00.50:872][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_29
 [2024.04.14-12.00.54:524][275]LogSlate: Window 'Message Log' being destroyed
 [2024.04.14-12.00.54:539][275]LogSlate: Window 'Message Log' being destroyed
+[2024.04.14-12.12.24:609][524]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-12.12.28:607][732]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-12.12.30:984][851]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.04.14-12.12.31:007][851]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-12.13.13:322][678]LogSlate: Took 0.001358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.14-12.13.15:232][801]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.14-12.13.15:309][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.14-12.13.15:744][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-12.13.15:827][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.04.14-12.13.15:847][823]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.14-12.13.15:847][823]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacter8B44B71947A0A16A23FA4380FC974632.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.14-12.13.15:852][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 3.62 sec)
+[2024.04.14-12.13.15:854][823]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.14-12.13.15:854][823]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.14-12.13.29:621][754]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.14-12.13.29:692][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.14-12.13.30:102][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-12.13.30:193][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.04.14-12.13.30:213][773]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.14-12.13.30:213][773]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacterD3D7354343C2653E9CCD999CFCECDE6D.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.14-12.13.30:218][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 3.74 sec)
+[2024.04.14-12.13.30:219][773]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.14-12.13.30:219][773]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.14-12.14.40:829][771]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.14-12.14.40:903][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.14-12.14.41:460][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-12.14.41:553][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.04.14-12.14.41:573][801]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.14-12.14.41:574][801]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacterF193B0644D38F0531E7AC08978FD30F3.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.14-12.14.41:579][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 3.86 sec)
+[2024.04.14-12.14.41:580][801]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.14-12.14.41:581][801]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.14-12.14.48:381][242]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.14-12.14.48:448][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.14-12.14.48:961][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-12.14.49:048][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.04.14-12.14.49:069][274]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.14-12.14.49:069][274]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacter63D5886B4572F25348607ABAB72FF11A.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.14-12.14.49:074][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 3.97 sec)
+[2024.04.14-12.14.49:075][274]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.14-12.14.49:075][274]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.14-12.15.05:664][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-12.15.05:720][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.04.14-12.15.05:741][340]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.14-12.15.05:741][340]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacter0ED5A03543A351F0DEB7F9AE474F20E4.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.14-12.15.05:747][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 4.05 sec)
+[2024.04.14-12.15.05:749][340]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.14-12.15.05:749][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.14-12.15.37:136][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.14-12.15.37:138][794]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Marcel/MEchanicMAps' took 0.023
+[2024.04.14-12.15.37:139][794]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.14-12.15.37:244][794]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.14-12.15.37:244][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.14-12.15.37:266][794]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2024.04.14-12.15.37:266][794]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacter_Auto3F2B5B9AE4765EECE18E032A184606575.tmp' to '../../../../../LevelCyberpunk/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2024.04.14-12.15.37:266][794]LogFileHelpers: Auto-saving content packages took 0.127
