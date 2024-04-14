@@ -2294,3 +2294,173 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.04.14-19.34.28:130][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
 [2024.04.14-19.34.28:167][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2024.04.14-19.34.28:175][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 6.72 sec)
+[2024.04.14-19.34.53:227][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.14-19.34.53:230][150]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Joanna/JoannaMaps' took 0.044
+[2024.04.14-19.34.53:231][150]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Joanna/Building_5] ([2] browsable assets)...
+[2024.04.14-19.34.53:363][150]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Joanna/Building_5.Building_5]
+[2024.04.14-19.34.53:363][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/Joanna/Building_5]
+[2024.04.14-19.34.53:363][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Building_5" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Autosaves/Game/Joanna/Building_5_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.04.14-19.34.53:402][150]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Joanna/Building_5_Auto6
+[2024.04.14-19.34.53:402][150]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Building_5_Auto625E49EEE431AC07F5BFACDABAD7DFADC.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Autosaves/Game/Joanna/Building_5_Auto6.uasset'
+[2024.04.14-19.34.53:402][150]LogFileHelpers: Auto-saving content packages took 0.172
+[2024.04.14-19.35.00:221][374]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Joanna/Building_5.Building_5
+[2024.04.14-19.35.00:236][374]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-19.35.00:236][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-19.35.02:204][482]LogViewport: Scene viewport resized to 1525x979, mode Windowed.
+[2024.04.14-19.37.13:975][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.37.14:071][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Joanna/Building_5" FILE="E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_5.uasset" SILENT=true
+[2024.04.14-19.37.14:108][633]LogSavePackage: Moving output files for package: /Game/Joanna/Building_5
+[2024.04.14-19.37.14:108][633]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Building_53BD92B564A5358C3BCA5CB9AADE44099.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_5.uasset'
+[2024.04.14-19.37.14:123][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 6.87 sec)
+[2024.04.14-19.37.14:124][633]AssetCheck: New page: Asset Save: Building_5
+[2024.04.14-19.37.14:124][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Joanna/Building_5.Building_5
+[2024.04.14-19.37.15:517][716]LogSlate: Window 'Building_5' being destroyed
+[2024.04.14-19.37.15:522][716]LogSlate: Window 'Building_5' being destroyed
+[2024.04.14-19.37.15:527][716]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-19.37.15:527][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-19.37.17:693][872]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_5.Building_5_C
+[2024.04.14-19.37.17:693][872]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_5.Building_5_C
+[2024.04.14-19.37.17:776][872]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_5.Building_5 as actor: Building_5_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_5_C_0
+[2024.04.14-19.37.17:869][872]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_5.Building_5 as actor: Building_5_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_5_C_0
+[2024.04.14-19.37.18:644][929]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_5.Building_5_C
+[2024.04.14-19.37.18:644][929]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Joanna/Building_5.Building_5_C
+[2024.04.14-19.37.18:689][929]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_5.Building_5 as actor: Building_5_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_5_C_UAID_E0D55E6D5EE832EC01_1295078193
+[2024.04.14-19.37.18:785][929]LogActorFactory: Actor Factory spawned Blueprint /Game/Joanna/Building_5.Building_5 as actor: Building_5_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_5_C_UAID_E0D55E6D5EE832EC01_1295078193
+[2024.04.14-19.38.37:174][326]Cmd: EDIT COPY
+[2024.04.14-19.38.37:394][341]Cmd: EDIT PASTE
+[2024.04.14-19.40.14:907][122]Cmd: EDIT COPY
+[2024.04.14-19.40.15:107][137]Cmd: EDIT PASTE
+[2024.04.14-19.40.15:107][137]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2024.04.14-19.40.28:600][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.40.28:864][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.04.14-19.40.28:947][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.14-19.40.28:984][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.14-19.40.28:988][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/1/2C/HPTO5KWIFL8YW5D4L4Z6Z2
+[2024.04.14-19.40.28:988][ 74]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/HPTO5KWIFL8YW5D4L4Z6Z2932633F944F9A3951C9D97AB61EC6954.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/1/2C/HPTO5KWIFL8YW5D4L4Z6Z2.uasset'
+[2024.04.14-19.40.28:990][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/7/G3/LPD9XRXV3WQ3I91OQCOGE7
+[2024.04.14-19.40.28:990][ 74]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/LPD9XRXV3WQ3I91OQCOGE722C6BC914097DE933B78B699EADAF26A.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/7/G3/LPD9XRXV3WQ3I91OQCOGE7.uasset'
+[2024.04.14-19.40.29:029][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/B/L0/4GUJA41M38NXRPZLGYQZYF
+[2024.04.14-19.40.29:029][ 74]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/4GUJA41M38NXRPZLGYQZYFB56179654B8553B76B970DAAB344E492.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/B/L0/4GUJA41M38NXRPZLGYQZYF.uasset'
+[2024.04.14-19.40.29:032][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/C/ZU/XEZD6ZIPYJ2Q8JS1730VEY
+[2024.04.14-19.40.29:032][ 74]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/XEZD6ZIPYJ2Q8JS1730VEY3A238C854CDF1DC757A68EA94F873E78.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/C/ZU/XEZD6ZIPYJ2Q8JS1730VEY.uasset'
+[2024.04.14-19.40.29:051][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/2/ES/QM3C8B7UAQM6NN03A0RXTD
+[2024.04.14-19.40.29:051][ 74]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/QM3C8B7UAQM6NN03A0RXTD4A077D6E4923A98D2B3563AD214A64FE.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/2/ES/QM3C8B7UAQM6NN03A0RXTD.uasset'
+[2024.04.14-19.40.29:063][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 463 ms (total: 7.33 sec)
+[2024.04.14-19.40.29:078][ 74]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-19.40.29:079][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE830EC01_1440410828
+[2024.04.14-19.40.29:079][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE831EC01_1455505011
+[2024.04.14-19.40.29:079][ 74]LogContentValidation: Display: Validating /Game/Joanna/Building_5.Building_5_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_5_C_UAID_E0D55E6D5EE832EC01_1295078193
+[2024.04.14-19.40.29:079][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE832EC01_1373828194
+[2024.04.14-19.40.29:079][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE832EC01_1471541195
+[2024.04.14-19.40.29:936][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.40.30:034][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.14-19.40.30:077][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.14-19.40.30:116][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.14-19.40.30:125][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 7.52 sec)
+[2024.04.14-19.50.35:145][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.50.35:264][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.14-19.50.35:308][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.14-19.50.35:345][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.14-19.50.35:348][861]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/1/E4/IY2ZROO7WXF381IU94R13G
+[2024.04.14-19.50.35:349][861]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/IY2ZROO7WXF381IU94R13G13E69DC241A535F1BFCAFFB34BF1A4E7.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/1/E4/IY2ZROO7WXF381IU94R13G.uasset'
+[2024.04.14-19.50.35:350][861]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/9/KN/RRU8MYWKNSWO9957JI89RP
+[2024.04.14-19.50.35:350][861]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/RRU8MYWKNSWO9957JI89RP231A56D14AE916B629BB15AE59785293.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/9/KN/RRU8MYWKNSWO9957JI89RP.uasset'
+[2024.04.14-19.50.35:352][861]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/9/FK/PVF2VADSJ8HUPPUQV4SRGX
+[2024.04.14-19.50.35:352][861]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/PVF2VADSJ8HUPPUQV4SRGXE415802644F26B0696E27AAA02C77D61.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/9/FK/PVF2VADSJ8HUPPUQV4SRGX.uasset'
+[2024.04.14-19.50.35:353][861]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/2/ES/QM3C8B7UAQM6NN03A0RXTD
+[2024.04.14-19.50.35:354][861]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/QM3C8B7UAQM6NN03A0RXTDB76768A248E7D8A3E92C279B64D098FD.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/2/ES/QM3C8B7UAQM6NN03A0RXTD.uasset'
+[2024.04.14-19.50.35:390][861]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/B/L0/4GUJA41M38NXRPZLGYQZYF
+[2024.04.14-19.50.35:390][861]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/4GUJA41M38NXRPZLGYQZYF5BA181D94273FE905E24419BCC070D7A.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/B/L0/4GUJA41M38NXRPZLGYQZYF.uasset'
+[2024.04.14-19.50.35:392][861]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/C/ZU/XEZD6ZIPYJ2Q8JS1730VEY
+[2024.04.14-19.50.35:392][861]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/XEZD6ZIPYJ2Q8JS1730VEY2FA996B84861AC78824F23AB6B1B75F2.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/C/ZU/XEZD6ZIPYJ2Q8JS1730VEY.uasset'
+[2024.04.14-19.50.35:400][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 7.77 sec)
+[2024.04.14-19.50.35:402][861]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-19.50.35:402][861]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE82CEC01_1122330122
+[2024.04.14-19.50.35:402][861]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE82CEC01_1094170121
+[2024.04.14-19.50.35:402][861]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_1
+[2024.04.14-19.50.35:402][861]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE832EC01_1471541195
+[2024.04.14-19.50.35:402][861]LogContentValidation: Display: Validating /Game/Joanna/Building_5.Building_5_C /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.Building_5_C_UAID_E0D55E6D5EE832EC01_1295078193
+[2024.04.14-19.50.35:402][861]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE832EC01_1373828194
+[2024.04.14-19.51.34:614][784]Cmd: EDIT COPY
+[2024.04.14-19.51.34:783][800]Cmd: EDIT PASTE
+[2024.04.14-19.52.15:513][383]LogEditorViewport: Clicking Background
+[2024.04.14-19.52.48:254][610]Cmd: EDIT COPY
+[2024.04.14-19.52.48:502][626]Cmd: EDIT PASTE
+[2024.04.14-19.52.49:918][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.14-19.52.49:925][712]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Joanna/JoannaMaps/1/Y7/SWXIUNX8V8762Y2WCIY2AJ_Auto7
+[2024.04.14-19.52.49:925][712]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/SWXIUNX8V8762Y2WCIY2AJ_Auto7C627BD394B571DFE6CC06B8025F4EEEA.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Autosaves/Game/__ExternalActors__/Joanna/JoannaMaps/1/Y7/SWXIUNX8V8762Y2WCIY2AJ_Auto7.uasset'
+[2024.04.14-19.52.49:927][712]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Joanna/JoannaMaps/0/FE/9EOCLW480KF5902YRD5K64_Auto7
+[2024.04.14-19.52.49:927][712]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/9EOCLW480KF5902YRD5K64_Auto76BEE9C794274202149903683FF918CFD.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/Autosaves/Game/__ExternalActors__/Joanna/JoannaMaps/0/FE/9EOCLW480KF5902YRD5K64_Auto7.uasset'
+[2024.04.14-19.52.49:927][712]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Joanna/JoannaMaps' took 0.050
+[2024.04.14-19.52.49:927][712]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2024.04.14-19.53.29:180][619]Cmd: EDIT COPY
+[2024.04.14-19.53.29:362][638]Cmd: EDIT PASTE
+[2024.04.14-19.53.39:054][627]Cmd: EDIT COPY
+[2024.04.14-19.53.39:225][643]Cmd: EDIT PASTE
+[2024.04.14-19.53.47:256][373]LogEditorViewport: Clicking Background
+[2024.04.14-19.54.04:113][121]LogEditorViewport: Clicking Background
+[2024.04.14-19.54.13:855][207]Cmd: EDIT COPY
+[2024.04.14-19.54.14:049][230]Cmd: EDIT PASTE
+[2024.04.14-19.54.39:279][112]LogEditorViewport: Clicking Background
+[2024.04.14-19.54.43:191][535]Cmd: EDIT COPY
+[2024.04.14-19.54.43:397][550]Cmd: EDIT PASTE
+[2024.04.14-19.54.55:634][725]LogEditorViewport: Clicking Background
+[2024.04.14-19.54.56:454][811]LogEditorViewport: Clicking Background
+[2024.04.14-19.55.05:421][735]LogEditorViewport: Clicking Background
+[2024.04.14-19.55.07:193][910]Cmd: EDIT COPY
+[2024.04.14-19.55.07:382][926]Cmd: EDIT PASTE
+[2024.04.14-19.55.16:180][849]LogEditorViewport: Clicking Background
+[2024.04.14-19.55.18:588][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.55.18:713][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.14-19.55.18:753][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.14-19.55.18:794][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.14-19.55.18:797][ 71]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/1/Y7/SWXIUNX8V8762Y2WCIY2AJ
+[2024.04.14-19.55.18:797][ 71]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/SWXIUNX8V8762Y2WCIY2AJ0227D87B4CF24D12C2FAC09F9C08EADA.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/1/Y7/SWXIUNX8V8762Y2WCIY2AJ.uasset'
+[2024.04.14-19.55.18:800][ 71]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/0/FE/9EOCLW480KF5902YRD5K64
+[2024.04.14-19.55.18:800][ 71]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/9EOCLW480KF5902YRD5K645E745B7C4CE163A1C75AA2A4DA11776C.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/0/FE/9EOCLW480KF5902YRD5K64.uasset'
+[2024.04.14-19.55.18:802][ 71]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/D/P6/M1QQ22PGNLVCXNWQ4UB1MT
+[2024.04.14-19.55.18:802][ 71]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/M1QQ22PGNLVCXNWQ4UB1MT3301538F4C8D53C2A278F4963D2B1D57.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/D/P6/M1QQ22PGNLVCXNWQ4UB1MT.uasset'
+[2024.04.14-19.55.18:804][ 71]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/5/I9/V4OIZAROFD157NAEV7SWB7
+[2024.04.14-19.55.18:804][ 71]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/V4OIZAROFD157NAEV7SWB7F3017E60491B5DF3D16DCFA870A3D711.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/5/I9/V4OIZAROFD157NAEV7SWB7.uasset'
+[2024.04.14-19.55.18:805][ 71]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/4/BB/HMRCTR1IKLO0V8ODC0JET1
+[2024.04.14-19.55.18:805][ 71]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/HMRCTR1IKLO0V8ODC0JET18D41C512493CB61F7E3B83B0F111016D.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/4/BB/HMRCTR1IKLO0V8ODC0JET1.uasset'
+[2024.04.14-19.55.18:807][ 71]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/0/CQ/YUG3AD9F3PEZV21I2VLR1E
+[2024.04.14-19.55.18:807][ 71]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/YUG3AD9F3PEZV21I2VLR1E0B742DA248EC6259DD05BD9C50D11EB1.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/0/CQ/YUG3AD9F3PEZV21I2VLR1E.uasset'
+[2024.04.14-19.55.18:837][ 71]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/6/2Y/7GMMTU9H9G49COE00OXB5R
+[2024.04.14-19.55.18:837][ 71]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/7GMMTU9H9G49COE00OXB5RD5F13AAC4F8A66195B3867A9FB4E3A54.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/6/2Y/7GMMTU9H9G49COE00OXB5R.uasset'
+[2024.04.14-19.55.18:891][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 302 ms (total: 8.08 sec)
+[2024.04.14-19.55.18:915][ 71]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-19.55.18:915][ 71]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE833EC01_1077476372
+[2024.04.14-19.55.18:915][ 71]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE833EC01_1151194373
+[2024.04.14-19.55.18:915][ 71]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE833EC01_1192055374
+[2024.04.14-19.55.18:915][ 71]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE833EC01_1201918375
+[2024.04.14-19.55.18:915][ 71]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE833EC01_1236741376
+[2024.04.14-19.55.18:923][ 72]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE833EC01_1266090377
+[2024.04.14-19.55.18:923][ 72]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE833EC01_1290075378
+[2024.04.14-19.55.54:092][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.55.54:203][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.14-19.55.54:239][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.14-19.55.54:275][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.14-19.55.54:279][633]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Joanna/JoannaMaps/7/G3/LPD9XRXV3WQ3I91OQCOGE7
+[2024.04.14-19.55.54:279][633]LogSavePackage: Moving 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Saved/LPD9XRXV3WQ3I91OQCOGE7394899404D451EF042EA858E90F66897.tmp' to 'E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/7/G3/LPD9XRXV3WQ3I91OQCOGE7.uasset'
+[2024.04.14-19.55.54:299][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 8.28 sec)
+[2024.04.14-19.55.54:300][633]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_E0D55E6D5EE831EC01_1455505011
+[2024.04.14-19.55.54:301][633]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Joanna/JoannaMaps.JoannaMaps:PersistentLevel.StaticMeshActor_UAID_E0D55E6D5EE831EC01_1455505011
+[2024.04.14-19.56.01:537][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-19.56.01:623][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.14-19.56.01:666][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.14-19.56.01:707][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.14-19.56.01:716][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 8.46 sec)
+[2024.04.14-19.56.03:004][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.14-19.56.03:027][308]LogStall: Shutdown...
+[2024.04.14-19.56.03:195][308]LogStall: Shutdown complete.
+[2024.04.14-19.56.03:237][308]LogSlate: Window 'LevelCyberpunk - Unreal Editor' being destroyed
+[2024.04.14-19.56.05:211][309]Cmd: QUIT_EDITOR
+[2024.04.14-19.56.05:260][309]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.14-19.56.05:408][309]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.14-19.56.05:453][309]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.14-19.56.05:454][309]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.14-19.56.05:670][309]LogWorld: UWorld::CleanupWorld for JoannaMaps, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-19.56.05:739][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-19.56.05:843][309]LogContentBundle: [JoannaMaps(Standalone)] Deleting container.
+[2024.04.14-19.56.06:825][309]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
