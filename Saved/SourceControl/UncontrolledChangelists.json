@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/E/78/9HY5O1L6A1L1S2YC8YZO4W.uasset",
+				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/Joanna/JoannaMaps/4/YX/OKLFGE24O78NAO84ZEAGAE.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/LevelCyberpunk/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset",
 				"D:/LevelCyberpunk/Content/AnimStarterPack/Ue4ASP_Character.uasset",
@@ -188,7 +190,6 @@
 				"D:/LevelCyberpunk/Content/ThirdPerson/Gun/SFX/212608__pgi__machine-gun-002-loop-_AudioTrimmer_com_.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Gun/SFX/595494__ljtheunicorn__owi_gun-shot-_AudioTrimmer_com_.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Gun/SFX/FirstPersonTemplateWeaponFire02.uasset",
-				"D:/LevelCyberpunk/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
 				"D:/LevelCyberpunk/Content/FirstPerson/Input/IMC_Default.uasset",
 				"D:/LevelCyberpunk/Content/__ExternalActors__/Marcel/MarcelMap/2/C9/3F72EILTFBNUBJPYMFLIBV.uasset",
 				"D:/LevelCyberpunk/Content/__ExternalActors__/Marcel/MarcelMap/4/5Z/RIKWJ8WMHDI6XAS10BYH8D.uasset",
