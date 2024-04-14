@@ -1121,3 +1121,102 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.14-10.56.52:468][  0]LogSourceControl: Uncontrolled asset enumeration started...
 [2024.04.14-10.56.52:471][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.002359 seconds (Found 134 uncontrolled assets)
 [2024.04.14-10.56.52:481][  0]BlueprintLog: New page: Editor Load
+[2024.04.14-10.56.52:723][  0]LocalizationService: Localization service is disabled
+[2024.04.14-10.56.52:753][  0]TimingProfiler: Initialize
+[2024.04.14-10.56.52:756][  0]TimingProfiler: OnSessionChanged
+[2024.04.14-10.56.52:756][  0]LoadingProfiler: Initialize
+[2024.04.14-10.56.52:756][  0]LoadingProfiler: OnSessionChanged
+[2024.04.14-10.56.52:757][  0]NetworkingProfiler: Initialize
+[2024.04.14-10.56.52:758][  0]NetworkingProfiler: OnSessionChanged
+[2024.04.14-10.56.52:758][  0]MemoryProfiler: Initialize
+[2024.04.14-10.56.52:758][  0]MemoryProfiler: OnSessionChanged
+[2024.04.14-10.56.53:376][  0]LogFileCache: Scanning file cache for directory 'D:/LevelCyberpunk/Content/' took 0.03s
+[2024.04.14-10.56.53:507][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.04.14-10.56.53:721][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.04.14-10.56.53:859][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.04.14-10.56.53:865][  0]SourceControl: Revision control is disabled
+[2024.04.14-10.56.53:865][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.327
+[2024.04.14-10.56.54:029][  0]Cmd: MAP LOAD FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.14-10.56.54:036][  0]LightingResults: New page: Lighting Build
+[2024.04.14-10.56.54:049][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-10.56.54:049][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-10.56.54:050][  0]MapCheck: New page: Map Check
+[2024.04.14-10.56.54:050][  0]LightingResults: New page: Lighting Build
+[2024.04.14-10.56.54:054][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.14-10.56.54:057][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.14-10.56.54:131][  0]LogBlueprint: Warning: [AssetLog] D:\LevelCyberpunk\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.04.14-10.56.54:131][  0]LogBlueprint: Warning: [AssetLog] D:\LevelCyberpunk\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.04.14-10.56.54:131][  0]LogBlueprint: Error: [AssetLog] D:\LevelCyberpunk\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.04.14-10.56.54:131][  0]LogBlueprint: Error: [AssetLog] D:\LevelCyberpunk\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.04.14-10.56.54:132][  0]LogBlueprint: Warning: [AssetLog] D:\LevelCyberpunk\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2024.04.14-10.56.54:132][  0]LogBlueprint: Warning: [AssetLog] D:\LevelCyberpunk\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2024.04.14-10.56.54:132][  0]LogBlueprint: Warning: [AssetLog] D:\LevelCyberpunk\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2024.04.14-10.56.54:132][  0]LogBlueprint: Warning: [AssetLog] D:\LevelCyberpunk\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2024.04.14-10.56.54:443][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.04.14-10.56.54:488][  0]LogAssetRegistry: Display: Asset registry cache written as 21.9 MiB to ../../../../../LevelCyberpunk/Intermediate/CachedAssetRegistry_*.bin
+[2024.04.14-10.56.54:506][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.04.14-10.56.54:508][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-10.56.54:508][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-10.56.54:508][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.14-10.56.54:509][  0]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.04.14-10.56.54:510][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.14-10.56.54:510][  0]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.14-10.56.54:584][  0]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.14-10.56.54:584][  0]LogWorldPartition: Display: WorldPartition initialize took 74 ms
+[2024.04.14-10.56.54:590][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.14-10.56.54:601][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.14-10.56.54:603][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.14-10.56.54:603][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,338ms to complete.
+[2024.04.14-10.56.54:614][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.076
+[2024.04.14-10.56.54:614][  0]LogShaderCompilers: Display: ================================================
+[2024.04.14-10.56.54:614][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.14-10.56.54:614][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.04.14-10.56.54:614][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.04.14-10.56.54:614][  0]LogShaderCompilers: Display: RAM used: 240,00 B of 409,60 MiB budget. Usage: 0.00%
+[2024.04.14-10.56.54:614][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.14-10.56.54:614][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.14-10.56.54:614][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.14-10.56.54:614][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.14-10.56.54:614][  0]LogShaderCompilers: Display: ================================================
+[2024.04.14-10.56.54:751][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-10.56.54:763][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-10.56.54:773][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-10.56.54:783][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-10.56.55:004][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.14-10.56.55:007][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.04.14-10.56.55:010][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.14-10.56.55:011][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.04.14-10.56.55:011][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.14-10.56.55:013][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.04.14-10.56.55:013][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.14-10.56.55:014][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.04.14-10.56.55:016][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.14-10.56.55:017][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.04.14-10.56.55:017][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.14-10.56.55:019][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.04.14-10.56.55:019][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.14-10.56.55:020][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.04.14-10.56.55:021][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.14-10.56.55:022][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.04.14-10.56.55:023][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.14-10.56.55:023][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.04.14-10.56.55:024][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.14-10.56.55:024][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.04.14-10.56.55:615][  0]LogSlate: External Image Picker: DecompressImage failed
+[2024.04.14-10.56.55:924][  0]LogSlate: Took 0.116455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.14-10.56.56:003][  0]LogSlate: Took 0.037672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.14-10.56.56:012][  0]LogSlate: Took 0.009226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.14-10.56.56:045][  0]LogViewport: Scene viewport resized to 1462x900, mode Windowed.
+[2024.04.14-10.56.56:207][  0]LogSlate: Took 0.001211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.14-10.56.56:586][  0]LogStall: Startup...
+[2024.04.14-10.56.56:588][  0]LogStall: Startup complete.
+[2024.04.14-10.56.56:650][  0]LogLoad: (Engine Initialization) Total time: 20.11 seconds
+[2024.04.14-10.56.56:650][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.04.14-10.56.56:719][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.14-10.56.56:992][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2024.04.14-10.56.57:006][  1]Running Python start-up script 'D:/Epic/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.087410 secs
+[2024.04.14-10.56.57:020][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-10.56.57:038][  1]LogAssetRegistry: AssetRegistryGather time 3.2360s: AssetDataDiscovery 1.4241s, AssetDataGather 1.7516s, StoreResults 0.0603s.
+[2024.04.14-10.56.57:068][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.04.14-10.56.57:090][  1]LogD3D12RHI: Cannot end block when stack is empty
