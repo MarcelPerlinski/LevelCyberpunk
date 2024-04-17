@@ -5111,3 +5111,893 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.17-12.32.38:532][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 8.88 sec)
 [2024.04.17-12.32.38:534][946]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.04.17-12.32.38:534][946]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.17-12.37.05:710][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2024.04.17-12.37.05:718][908]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Marcel/MEchanicMAps' took 0.044
+[2024.04.17-12.37.05:718][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/Reload_Rifle_Hip_Montage] ([1] browsable assets)...
+[2024.04.17-12.37.05:718][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Reload_Rifle_Hip_Montage]
+[2024.04.17-12.37.05:720][908]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimStarterPack/Reload_Rifle_Hip_Montage_Auto5
+[2024.04.17-12.37.05:720][908]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/Reload_Rifle_Hip_Montage_Auto553A07CB1417590B94CB50BB0488DE1AC.tmp' to '../../../../../LevelCyberpunk/Saved/Autosaves/Game/AnimStarterPack/Reload_Rifle_Hip_Montage_Auto5.uasset'
+[2024.04.17-12.37.05:721][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage] ([1] browsable assets)...
+[2024.04.17-12.37.05:722][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage]
+[2024.04.17-12.37.05:723][908]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage_Auto5
+[2024.04.17-12.37.05:723][908]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/Reload_Rifle_Ironsights_Montage_334F68F14DEC9608296F868650C2BFD9.tmp' to '../../../../../LevelCyberpunk/Saved/Autosaves/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage_Auto5.uasset'
+[2024.04.17-12.37.05:724][908]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.04.17-12.40.10:269][ 13]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.17-12.40.10:399][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2024.04.17-12.40.11:006][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-12.40.11:103][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.04.17-12.40.11:139][ 26]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.17-12.40.11:139][ 26]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacter9C67202C4814700C8F39CB8F08ADC7AC.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.17-12.40.11:147][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 9.02 sec)
+[2024.04.17-12.40.11:162][ 26]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.17-12.40.11:162][ 26]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.17-12.40.21:320][788]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.17-12.40.21:334][788]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.17-12.40.21:348][789]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.17-12.40.24:069][ 33]LogContentBrowser: Attempting asset rename: NewFolder -> Ammo
+[2024.04.17-12.40.24:072][ 33]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.17-12.40.31:000][325]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.17-12.40.31:007][325]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.17-12.40.31:014][325]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.17-12.40.31:040][327]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.17-12.40.36:394][786]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Ammo
+[2024.04.17-12.40.36:413][786]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.17-12.40.37:861][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo
+[2024.04.17-12.40.37:862][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.40.37:862][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-12.40.38:015][911]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2024.04.17-12.41.09:453][894]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.42.43:297][796]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.17-12.48.05:946][691]BlueprintLog: New page: Compile BP_Ammo
+[2024.04.17-12.48.06:009][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.17-12.48.06:432][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-12.48.06:503][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Gun/Ammo/BP_Ammo" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset" SILENT=true
+[2024.04.17-12.48.06:506][708]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Gun/Ammo/BP_Ammo
+[2024.04.17-12.48.06:506][708]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_AmmoDF2CBCAF44CD4F8E12DF26A20D83587B.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset'
+[2024.04.17-12.48.06:523][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 9.11 sec)
+[2024.04.17-12.48.06:524][708]AssetCheck: New page: Asset Save: BP_Ammo
+[2024.04.17-12.48.06:524][708]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo
+[2024.04.17-12.48.11:124][ 45]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo_C
+[2024.04.17-12.48.11:125][ 45]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo_C
+[2024.04.17-12.48.11:128][ 45]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo as actor: BP_Ammo_C /Game/Marcel/MEchanicMAps.MEchanicMAps:PersistentLevel.BP_Ammo_C_0
+[2024.04.17-12.48.11:130][ 45]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo as actor: BP_Ammo_C /Game/Marcel/MEchanicMAps.MEchanicMAps:PersistentLevel.BP_Ammo_C_0
+[2024.04.17-12.48.11:137][ 45]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.17-12.48.11:954][107]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo_C
+[2024.04.17-12.48.11:954][107]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo_C
+[2024.04.17-12.48.11:964][107]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo as actor: BP_Ammo_C /Game/Marcel/MEchanicMAps.MEchanicMAps:PersistentLevel.BP_Ammo_C_UAID_04D4C4AD12B80CED01_1872672543
+[2024.04.17-12.48.11:965][107]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo as actor: BP_Ammo_C /Game/Marcel/MEchanicMAps.MEchanicMAps:PersistentLevel.BP_Ammo_C_UAID_04D4C4AD12B80CED01_1872672543
+[2024.04.17-12.48.17:439][561]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-12.48.17:447][561]LogContentBundle: [MEchanicMAps(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-12.48.17:448][561]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' started...
+[2024.04.17-12.48.17:451][561]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' took 3 ms (total: 87 ms)
+[2024.04.17-12.48.17:453][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-12.48.17:453][561]PIE: New page: PIE session: MEchanicMAps (17 kwi 2024, 16:48:17)
+[2024.04.17-12.48.17:494][561]LogPlayLevel: Creating play world package: /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-12.48.17:499][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004462s)
+[2024.04.17-12.48.17:499][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Marcel/MEchanicMAps.MEchanicMAps to /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps (0.004492s)
+[2024.04.17-12.48.17:511][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.17-12.48.17:514][561]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.48.17:514][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-12.48.17:514][561]LogAIModule: Creating AISystem for world MEchanicMAps
+[2024.04.17-12.48.17:514][561]LogWorldPartition: ULevel::OnLevelLoaded(MEchanicMAps)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-12.48.17:514][561]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-12.48.17:514][561]LogWorldPartition: UWorldPartition::Initialize : World = MEchanicMAps, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-12.48.17:514][561]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-12.48.17:516][561]LogContentBundle: [MEchanicMAps(Standalone)] Creating new contrainer.
+[2024.04.17-12.48.17:516][561]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 410 ms)
+[2024.04.17-12.48.17:516][561]LogPlayLevel: PIE: World Init took: (0.002092s)
+[2024.04.17-12.48.17:516][561]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.04.17-12.48.17:516][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-12.48.17:516][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-12.48.17:516][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-12.48.17:516][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-12.48.17:516][561]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-12.48.17:516][561]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-12.48.17:516][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-12.48.17:516][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-12.48.17:516][561]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-12.48.17:516][561]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-12.48.17:516][561]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-12.48.17:518][561]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-12.48.17:536][561]LogAudioMixer: Display: Using Audio Hardware Device Acer VG240Y (Audio dla wyświetlaczy Intel(R))
+[2024.04.17-12.48.17:536][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-12.48.17:536][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-12.48.17:536][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-12.48.17:537][561]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.04.17-12.48.17:537][561]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.04.17-12.48.17:539][561]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.04.17-12.48.17:539][561]LogInit: FAudioDevice initialized with ID 37.
+[2024.04.17-12.48.17:539][561]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.04.17-12.48.17:539][561]LogAudio: Display: Audio Device (ID: 37) registered with world 'MEchanicMAps'.
+[2024.04.17-12.48.17:539][561]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.04.17-12.48.17:541][561]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-12.48.17:544][561]LogWorld: Bringing World /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps up for play (max tick rate 0) at 2024.04.17-14.48.17
+[2024.04.17-12.48.17:545][561]LogWorld: Bringing up level for play took: 0.003784
+[2024.04.17-12.48.17:547][561]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2024.04.17-12.48.17:549][561]PIE: Server logged in
+[2024.04.17-12.48.17:550][561]PIE: Play in editor total start time 0,103 seconds.
+[2024.04.17-12.48.22:295][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-12.48.22:295][953]LogWorld: BeginTearingDown for /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-12.48.22:295][953]LogWorld: UWorld::CleanupWorld for MEchanicMAps, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-12.48.22:296][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.48.22:296][953]LogContentBundle: [MEchanicMAps(Standalone)] Deleting container.
+[2024.04.17-12.48.22:300][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-12.48.22:303][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.48.22:317][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.17-12.48.22:317][953]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.04.17-12.48.22:317][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.04.17-12.48.22:319][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.04.17-12.48.22:322][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-12.48.22:324][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.17-12.48.22:382][954]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2024.04.17-12.48.33:634][536]BlueprintLog: New page: Compile BP_Ammo
+[2024.04.17-12.48.33:676][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.04.17-12.48.34:186][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-12.48.34:259][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Gun/Ammo/BP_Ammo" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset" SILENT=true
+[2024.04.17-12.48.34:262][557]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Gun/Ammo/BP_Ammo
+[2024.04.17-12.48.34:263][557]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_AmmoAD388B3643B10AE7A003A2A92E3B46FE.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset'
+[2024.04.17-12.48.34:271][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 9.20 sec)
+[2024.04.17-12.48.34:271][557]AssetCheck: New page: Asset Save: BP_Ammo
+[2024.04.17-12.48.34:271][557]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo
+[2024.04.17-12.49.42:746][804]LogWindows: Warning: OpenClipboard failed with error code 5
+[2024.04.17-12.50.55:869][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-12.50.55:966][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Gun/Ammo/BP_Ammo" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset" SILENT=true
+[2024.04.17-12.50.55:970][714]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Gun/Ammo/BP_Ammo
+[2024.04.17-12.50.55:971][714]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_Ammo1EEA25DE4F25ED7E45089E98ACFA5B87.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset'
+[2024.04.17-12.50.55:976][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 9.30 sec)
+[2024.04.17-12.50.55:978][714]AssetCheck: New page: Asset Save: BP_Ammo
+[2024.04.17-12.50.55:978][714]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo
+[2024.04.17-12.50.56:572][752]BlueprintLog: New page: Compile BP_Ammo
+[2024.04.17-12.50.56:616][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.17-12.50.57:111][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-12.50.57:185][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Gun/Ammo/BP_Ammo" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset" SILENT=true
+[2024.04.17-12.50.57:190][780]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Gun/Ammo/BP_Ammo
+[2024.04.17-12.50.57:190][780]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_Ammo4B9A401C4A0BE60CF9E108A57FFDE408.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset'
+[2024.04.17-12.50.57:196][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 9.39 sec)
+[2024.04.17-12.50.57:196][780]AssetCheck: New page: Asset Save: BP_Ammo
+[2024.04.17-12.50.57:196][780]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo
+[2024.04.17-12.51.04:639][384]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.04.17-12.51.04:639][384]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.04.17-12.51.12:063][872]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.04.17-12.51.12:074][872]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.04.17-12.51.12:089][873]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.04.17-12.51.19:128][491]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Interact
+[2024.04.17-12.51.19:130][491]LogContentBrowser: End creating deferred item NewInputAction
+[2024.04.17-12.51.21:123][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-12.51.21:181][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/Actions/IA_Interact" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Input/Actions/IA_Interact.uasset" SILENT=true
+[2024.04.17-12.51.21:181][659]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Interact
+[2024.04.17-12.51.21:181][659]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/IA_InteractE7EA7EB54783C650DE190691AAC1C8C2.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Input/Actions/IA_Interact.uasset'
+[2024.04.17-12.51.21:188][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 9.45 sec)
+[2024.04.17-12.51.21:188][659]AssetCheck: New page: Asset Save: IA_Interact
+[2024.04.17-12.51.21:188][659]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPerson/Input/Actions/IA_Interact.IA_Interact
+[2024.04.17-12.51.22:675][783]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.04.17-12.51.41:079][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-12.51.41:150][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/IMC_Default" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Input/IMC_Default.uasset" SILENT=true
+[2024.04.17-12.51.41:151][991]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2024.04.17-12.51.41:152][991]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/IMC_Default979A7384498351175D54E2B4118C21F6.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2024.04.17-12.51.41:158][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 9.53 sec)
+[2024.04.17-12.51.41:160][991]AssetCheck: New page: Asset Save: IMC_Default
+[2024.04.17-12.51.41:160][991]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.04.17-12.52.23:951][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.17-12.52.23:955][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Marcel/MEchanicMAps/D/CY/F3B7WQBOSCFEPXCLS2CEEX_Auto6
+[2024.04.17-12.52.23:955][ 45]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/F3B7WQBOSCFEPXCLS2CEEX_Auto664C803BC4C92D501633D2CA575F64D82.tmp' to '../../../../../LevelCyberpunk/Saved/Autosaves/Game/__ExternalActors__/Marcel/MEchanicMAps/D/CY/F3B7WQBOSCFEPXCLS2CEEX_Auto6.uasset'
+[2024.04.17-12.52.23:960][ 45]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Marcel/MEchanicMAps' took 0.041
+[2024.04.17-12.52.23:960][ 45]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2024.04.17-12.52.23:960][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/Reload_Rifle_Hip_Montage] ([1] browsable assets)...
+[2024.04.17-12.52.23:960][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Reload_Rifle_Hip_Montage]
+[2024.04.17-12.52.23:962][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimStarterPack/Reload_Rifle_Hip_Montage_Auto6
+[2024.04.17-12.52.23:962][ 45]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/Reload_Rifle_Hip_Montage_Auto63F1B92E245787D66531346A8B07B0C69.tmp' to '../../../../../LevelCyberpunk/Saved/Autosaves/Game/AnimStarterPack/Reload_Rifle_Hip_Montage_Auto6.uasset'
+[2024.04.17-12.52.23:962][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage] ([1] browsable assets)...
+[2024.04.17-12.52.23:962][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage]
+[2024.04.17-12.52.23:963][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage_Auto6
+[2024.04.17-12.52.23:963][ 45]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/Reload_Rifle_Ironsights_Montage_C10035BC45F1F1DC68DD79B7A79DBF80.tmp' to '../../../../../LevelCyberpunk/Saved/Autosaves/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage_Auto6.uasset'
+[2024.04.17-12.52.23:965][ 45]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Gun/Ammo/BP_Ammo] ([2] browsable assets)...
+[2024.04.17-12.52.24:088][ 45]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo]
+[2024.04.17-12.52.24:088][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Gun/Ammo/BP_Ammo]
+[2024.04.17-12.52.24:088][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Gun/Ammo/BP_Ammo" FILE="../../../../../LevelCyberpunk/Saved/Autosaves/Game/ThirdPerson/Gun/Ammo/BP_Ammo_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.04.17-12.52.24:095][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Gun/Ammo/BP_Ammo_Auto6
+[2024.04.17-12.52.24:095][ 45]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_Ammo_Auto6BFA0ACCE4B2C3F039F7466B239472072.tmp' to '../../../../../LevelCyberpunk/Saved/Autosaves/Game/ThirdPerson/Gun/Ammo/BP_Ammo_Auto6.uasset'
+[2024.04.17-12.52.24:096][ 45]LogFileHelpers: Auto-saving content packages took 0.136
+[2024.04.17-12.56.38:313][621]BlueprintLog: New page: Compile BP_Ammo
+[2024.04.17-12.56.39:030][621]LogUObjectHash: Compacting FUObjectHashTables data took  14.55ms
+[2024.04.17-12.56.39:827][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-12.56.39:915][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Gun/Ammo/BP_Ammo" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset" SILENT=true
+[2024.04.17-12.56.39:923][666]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Gun/Ammo/BP_Ammo
+[2024.04.17-12.56.39:923][666]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_AmmoBA6EC64F4DF15B0FD2CFB0AECAF04F3C.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset'
+[2024.04.17-12.56.39:929][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 9.63 sec)
+[2024.04.17-12.56.39:930][666]AssetCheck: New page: Asset Save: BP_Ammo
+[2024.04.17-12.56.39:930][666]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo
+[2024.04.17-12.56.42:136][832]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-12.56.42:142][832]LogContentBundle: [MEchanicMAps(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-12.56.42:142][832]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' started...
+[2024.04.17-12.56.42:145][832]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' took 2 ms (total: 90 ms)
+[2024.04.17-12.56.42:145][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-12.56.42:145][832]PIE: New page: PIE session: MEchanicMAps (17 kwi 2024, 16:56:42)
+[2024.04.17-12.56.42:174][832]LogPlayLevel: Creating play world package: /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-12.56.42:178][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004449s)
+[2024.04.17-12.56.42:178][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Marcel/MEchanicMAps.MEchanicMAps to /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps (0.004481s)
+[2024.04.17-12.56.42:191][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.17-12.56.42:193][832]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.56.42:193][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-12.56.42:193][832]LogAIModule: Creating AISystem for world MEchanicMAps
+[2024.04.17-12.56.42:194][832]LogWorldPartition: ULevel::OnLevelLoaded(MEchanicMAps)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-12.56.42:194][832]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-12.56.42:194][832]LogWorldPartition: UWorldPartition::Initialize : World = MEchanicMAps, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-12.56.42:194][832]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-12.56.42:195][832]LogContentBundle: [MEchanicMAps(Standalone)] Creating new contrainer.
+[2024.04.17-12.56.42:195][832]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 411 ms)
+[2024.04.17-12.56.42:195][832]LogPlayLevel: PIE: World Init took: (0.002191s)
+[2024.04.17-12.56.42:195][832]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.04.17-12.56.42:195][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-12.56.42:195][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-12.56.42:195][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-12.56.42:195][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-12.56.42:195][832]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-12.56.42:195][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-12.56.42:195][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-12.56.42:195][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-12.56.42:195][832]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-12.56.42:195][832]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-12.56.42:195][832]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-12.56.42:197][832]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-12.56.42:215][832]LogAudioMixer: Display: Using Audio Hardware Device Acer VG240Y (Audio dla wyświetlaczy Intel(R))
+[2024.04.17-12.56.42:215][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-12.56.42:215][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-12.56.42:215][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-12.56.42:216][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.04.17-12.56.42:216][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.04.17-12.56.42:217][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.04.17-12.56.42:217][832]LogInit: FAudioDevice initialized with ID 38.
+[2024.04.17-12.56.42:217][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.04.17-12.56.42:217][832]LogAudio: Display: Audio Device (ID: 38) registered with world 'MEchanicMAps'.
+[2024.04.17-12.56.42:217][832]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.04.17-12.56.42:219][832]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-12.56.42:223][832]LogWorld: Bringing World /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps up for play (max tick rate 0) at 2024.04.17-14.56.42
+[2024.04.17-12.56.42:223][832]LogWorld: Bringing up level for play took: 0.003767
+[2024.04.17-12.56.42:225][832]LogOnline: OSS: Created online subsystem instance for: :Context_111
+[2024.04.17-12.56.42:228][832]PIE: Server logged in
+[2024.04.17-12.56.42:228][832]PIE: Play in editor total start time 0,086 seconds.
+[2024.04.17-12.56.53:164][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-12.56.53:164][786]LogWorld: BeginTearingDown for /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-12.56.53:164][786]LogWorld: UWorld::CleanupWorld for MEchanicMAps, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-12.56.53:165][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.56.53:165][786]LogContentBundle: [MEchanicMAps(Standalone)] Deleting container.
+[2024.04.17-12.56.53:183][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-12.56.53:187][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.56.53:201][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-12.56.53:201][786]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.04.17-12.56.53:201][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.04.17-12.56.53:202][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.04.17-12.56.53:208][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.17-12.56.53:267][787]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2024.04.17-12.56.54:127][860]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-12.56.54:134][860]LogContentBundle: [MEchanicMAps(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-12.56.54:134][860]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' started...
+[2024.04.17-12.56.54:137][860]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' took 3 ms (total: 93 ms)
+[2024.04.17-12.56.54:137][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-12.56.54:138][860]PIE: New page: PIE session: MEchanicMAps (17 kwi 2024, 16:56:54)
+[2024.04.17-12.56.54:164][860]LogPlayLevel: Creating play world package: /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-12.56.54:168][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004196s)
+[2024.04.17-12.56.54:168][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Marcel/MEchanicMAps.MEchanicMAps to /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps (0.004226s)
+[2024.04.17-12.56.54:181][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.17-12.56.54:182][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.56.54:182][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-12.56.54:183][860]LogAIModule: Creating AISystem for world MEchanicMAps
+[2024.04.17-12.56.54:183][860]LogWorldPartition: ULevel::OnLevelLoaded(MEchanicMAps)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-12.56.54:183][860]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-12.56.54:183][860]LogWorldPartition: UWorldPartition::Initialize : World = MEchanicMAps, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-12.56.54:183][860]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-12.56.54:184][860]LogContentBundle: [MEchanicMAps(Standalone)] Creating new contrainer.
+[2024.04.17-12.56.54:184][860]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 412 ms)
+[2024.04.17-12.56.54:184][860]LogPlayLevel: PIE: World Init took: (0.002086s)
+[2024.04.17-12.56.54:184][860]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.04.17-12.56.54:184][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-12.56.54:184][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-12.56.54:184][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-12.56.54:184][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-12.56.54:184][860]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-12.56.54:184][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-12.56.54:184][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-12.56.54:184][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-12.56.54:185][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-12.56.54:185][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-12.56.54:185][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-12.56.54:187][860]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-12.56.54:204][860]LogAudioMixer: Display: Using Audio Hardware Device Acer VG240Y (Audio dla wyświetlaczy Intel(R))
+[2024.04.17-12.56.54:204][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-12.56.54:204][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-12.56.54:204][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-12.56.54:204][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.04.17-12.56.54:205][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.04.17-12.56.54:206][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.04.17-12.56.54:206][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.04.17-12.56.54:206][860]LogInit: FAudioDevice initialized with ID 39.
+[2024.04.17-12.56.54:206][860]LogAudio: Display: Audio Device (ID: 39) registered with world 'MEchanicMAps'.
+[2024.04.17-12.56.54:206][860]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.04.17-12.56.54:208][860]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-12.56.54:211][860]LogWorld: Bringing World /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps up for play (max tick rate 0) at 2024.04.17-14.56.54
+[2024.04.17-12.56.54:212][860]LogWorld: Bringing up level for play took: 0.003460
+[2024.04.17-12.56.54:213][860]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2024.04.17-12.56.54:216][860]PIE: Server logged in
+[2024.04.17-12.56.54:216][860]PIE: Play in editor total start time 0,083 seconds.
+[2024.04.17-12.56.57:854][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-12.56.57:854][165]LogWorld: BeginTearingDown for /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-12.56.57:854][165]LogWorld: UWorld::CleanupWorld for MEchanicMAps, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-12.56.57:855][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.56.57:855][165]LogContentBundle: [MEchanicMAps(Standalone)] Deleting container.
+[2024.04.17-12.56.57:860][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-12.56.57:864][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.56.57:877][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-12.56.57:878][165]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.04.17-12.56.57:878][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.04.17-12.56.57:879][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.04.17-12.56.57:885][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.17-12.56.57:943][166]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2024.04.17-12.58.41:404][936]BlueprintLog: New page: Compile BP_Ammo
+[2024.04.17-12.58.41:452][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.17-12.58.42:153][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-12.58.42:241][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Gun/Ammo/BP_Ammo" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset" SILENT=true
+[2024.04.17-12.58.42:248][974]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Gun/Ammo/BP_Ammo
+[2024.04.17-12.58.42:248][974]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_Ammo66A93CAF496396D3CC363B99859D50BC.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset'
+[2024.04.17-12.58.42:255][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 9.74 sec)
+[2024.04.17-12.58.42:256][974]AssetCheck: New page: Asset Save: BP_Ammo
+[2024.04.17-12.58.42:256][974]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo
+[2024.04.17-12.58.43:244][ 37]LogDerivedDataCache: C:/Users/48730/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.682 and deleted 1 files with total size 0 MiB and 1 empty folders. Scanned 12720 files in 15068 folders with total size 2098 MiB.
+[2024.04.17-12.58.44:148][116]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-12.58.44:155][116]LogContentBundle: [MEchanicMAps(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-12.58.44:155][116]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' started...
+[2024.04.17-12.58.44:158][116]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' took 2 ms (total: 96 ms)
+[2024.04.17-12.58.44:158][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-12.58.44:158][116]PIE: New page: PIE session: MEchanicMAps (17 kwi 2024, 16:58:44)
+[2024.04.17-12.58.44:184][116]LogPlayLevel: Creating play world package: /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-12.58.44:188][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004306s)
+[2024.04.17-12.58.44:188][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Marcel/MEchanicMAps.MEchanicMAps to /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps (0.004337s)
+[2024.04.17-12.58.44:202][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.17-12.58.44:204][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.58.44:204][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-12.58.44:205][116]LogAIModule: Creating AISystem for world MEchanicMAps
+[2024.04.17-12.58.44:205][116]LogWorldPartition: ULevel::OnLevelLoaded(MEchanicMAps)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-12.58.44:205][116]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-12.58.44:205][116]LogWorldPartition: UWorldPartition::Initialize : World = MEchanicMAps, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-12.58.44:205][116]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-12.58.44:206][116]LogContentBundle: [MEchanicMAps(Standalone)] Creating new contrainer.
+[2024.04.17-12.58.44:206][116]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 413 ms)
+[2024.04.17-12.58.44:206][116]LogPlayLevel: PIE: World Init took: (0.002126s)
+[2024.04.17-12.58.44:206][116]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.04.17-12.58.44:206][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-12.58.44:206][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-12.58.44:206][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-12.58.44:206][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-12.58.44:206][116]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-12.58.44:206][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-12.58.44:206][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-12.58.44:206][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-12.58.44:207][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-12.58.44:207][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-12.58.44:207][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-12.58.44:209][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-12.58.44:225][116]LogAudioMixer: Display: Using Audio Hardware Device Acer VG240Y (Audio dla wyświetlaczy Intel(R))
+[2024.04.17-12.58.44:226][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-12.58.44:226][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-12.58.44:226][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-12.58.44:227][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.04.17-12.58.44:227][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.04.17-12.58.44:228][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.04.17-12.58.44:228][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.04.17-12.58.44:228][116]LogInit: FAudioDevice initialized with ID 40.
+[2024.04.17-12.58.44:228][116]LogAudio: Display: Audio Device (ID: 40) registered with world 'MEchanicMAps'.
+[2024.04.17-12.58.44:228][116]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.17-12.58.44:230][116]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-12.58.44:233][116]LogWorld: Bringing World /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps up for play (max tick rate 0) at 2024.04.17-14.58.44
+[2024.04.17-12.58.44:234][116]LogWorld: Bringing up level for play took: 0.003580
+[2024.04.17-12.58.44:236][116]LogOnline: OSS: Created online subsystem instance for: :Context_113
+[2024.04.17-12.58.44:238][116]PIE: Server logged in
+[2024.04.17-12.58.44:239][116]PIE: Play in editor total start time 0,084 seconds.
+[2024.04.17-12.58.47:429][392]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	BP_Ammo_C /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps:PersistentLevel.BP_Ammo_C_UAID_04D4C4AD12B80CED01_1872672543
+	Function /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo_C:ExecuteUbergraph_BP_Ammo:0296
+[2024.04.17-12.58.50:285][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-12.58.50:285][635]LogWorld: BeginTearingDown for /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-12.58.50:285][635]LogWorld: UWorld::CleanupWorld for MEchanicMAps, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-12.58.50:286][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.58.50:286][635]LogContentBundle: [MEchanicMAps(Standalone)] Deleting container.
+[2024.04.17-12.58.50:305][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-12.58.50:309][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.58.50:322][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-12.58.50:322][635]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.17-12.58.50:322][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.17-12.58.50:324][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.17-12.58.50:329][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.17-12.58.50:388][636]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2024.04.17-13.00.16:253][884]BlueprintLog: New page: Compile BP_Ammo
+[2024.04.17-13.00.16:300][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.17-13.00.17:271][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.00.17:344][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Gun/Ammo/BP_Ammo" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset" SILENT=true
+[2024.04.17-13.00.17:351][940]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Gun/Ammo/BP_Ammo
+[2024.04.17-13.00.17:352][940]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_Ammo77CDF48E470BDF6FA86F13BF93E5FE67.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset'
+[2024.04.17-13.00.17:358][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 9.82 sec)
+[2024.04.17-13.00.17:359][940]AssetCheck: New page: Asset Save: BP_Ammo
+[2024.04.17-13.00.17:359][940]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo
+[2024.04.17-13.00.20:199][147]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-13.00.20:207][147]LogContentBundle: [MEchanicMAps(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-13.00.20:207][147]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' started...
+[2024.04.17-13.00.20:208][147]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' took 1 ms (total: 98 ms)
+[2024.04.17-13.00.20:209][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-13.00.20:209][147]PIE: New page: PIE session: MEchanicMAps (17 kwi 2024, 17:00:20)
+[2024.04.17-13.00.20:209][147]LogPlayLevel: Creating play world package: /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.00.20:214][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005431s)
+[2024.04.17-13.00.20:214][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Marcel/MEchanicMAps.MEchanicMAps to /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps (0.005461s)
+[2024.04.17-13.00.20:230][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.17-13.00.20:232][147]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.00.20:233][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.00.20:233][147]LogAIModule: Creating AISystem for world MEchanicMAps
+[2024.04.17-13.00.20:233][147]LogWorldPartition: ULevel::OnLevelLoaded(MEchanicMAps)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-13.00.20:233][147]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-13.00.20:233][147]LogWorldPartition: UWorldPartition::Initialize : World = MEchanicMAps, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-13.00.20:233][147]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-13.00.20:235][147]LogContentBundle: [MEchanicMAps(Standalone)] Creating new contrainer.
+[2024.04.17-13.00.20:235][147]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 414 ms)
+[2024.04.17-13.00.20:235][147]LogPlayLevel: PIE: World Init took: (0.002171s)
+[2024.04.17-13.00.20:235][147]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.04.17-13.00.20:235][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-13.00.20:235][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-13.00.20:235][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-13.00.20:235][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-13.00.20:235][147]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-13.00.20:235][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-13.00.20:235][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-13.00.20:235][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-13.00.20:235][147]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-13.00.20:235][147]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-13.00.20:235][147]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-13.00.20:237][147]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-13.00.20:253][147]LogAudioMixer: Display: Using Audio Hardware Device Acer VG240Y (Audio dla wyświetlaczy Intel(R))
+[2024.04.17-13.00.20:253][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-13.00.20:253][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-13.00.20:253][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-13.00.20:254][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.04.17-13.00.20:254][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.04.17-13.00.20:255][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.04.17-13.00.20:255][147]LogInit: FAudioDevice initialized with ID 41.
+[2024.04.17-13.00.20:255][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.04.17-13.00.20:255][147]LogAudio: Display: Audio Device (ID: 41) registered with world 'MEchanicMAps'.
+[2024.04.17-13.00.20:255][147]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.04.17-13.00.20:257][147]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-13.00.20:261][147]LogWorld: Bringing World /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps up for play (max tick rate 0) at 2024.04.17-15.00.20
+[2024.04.17-13.00.20:261][147]LogWorld: Bringing up level for play took: 0.003710
+[2024.04.17-13.00.20:264][147]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2024.04.17-13.00.20:266][147]PIE: Server logged in
+[2024.04.17-13.00.20:267][147]PIE: Play in editor total start time 0,061 seconds.
+[2024.04.17-13.00.25:994][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.00.25:994][643]LogWorld: BeginTearingDown for /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.00.25:994][643]LogWorld: UWorld::CleanupWorld for MEchanicMAps, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.00.25:994][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.00.25:995][643]LogContentBundle: [MEchanicMAps(Standalone)] Deleting container.
+[2024.04.17-13.00.26:016][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-13.00.26:020][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.00.26:033][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.00.26:033][643]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.04.17-13.00.26:033][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.04.17-13.00.26:035][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.04.17-13.00.26:041][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.17-13.00.26:100][644]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2024.04.17-13.00.30:398][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.00.30:462][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Gun/Ammo/BP_Ammo" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset" SILENT=true
+[2024.04.17-13.00.30:470][890]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Gun/Ammo/BP_Ammo
+[2024.04.17-13.00.30:471][890]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_Ammo518FC348483D0A4B3B8A88B47A766076.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Gun/Ammo/BP_Ammo.uasset'
+[2024.04.17-13.00.30:477][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 9.90 sec)
+[2024.04.17-13.00.30:478][890]AssetCheck: New page: Asset Save: BP_Ammo
+[2024.04.17-13.00.30:478][890]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo
+[2024.04.17-13.00.49:659][768]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.17-13.00.49:758][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.17-13.00.50:443][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.00.50:528][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.04.17-13.00.50:563][785]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.17-13.00.50:563][785]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacter5AC1819A4766478362D233BFDA54DC4D.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.17-13.00.50:571][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 10.0 sec)
+[2024.04.17-13.00.50:572][785]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.17-13.00.50:572][785]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.17-13.02.51:377][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.17-13.02.51:380][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Marcel/MEchanicMAps/D/CY/F3B7WQBOSCFEPXCLS2CEEX_Auto7
+[2024.04.17-13.02.51:380][248]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/F3B7WQBOSCFEPXCLS2CEEX_Auto784F1865B411D56BC0A1F89865288FC5A.tmp' to '../../../../../LevelCyberpunk/Saved/Autosaves/Game/__ExternalActors__/Marcel/MEchanicMAps/D/CY/F3B7WQBOSCFEPXCLS2CEEX_Auto7.uasset'
+[2024.04.17-13.02.51:381][248]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Marcel/MEchanicMAps' took 0.021
+[2024.04.17-13.02.51:381][248]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.04.17-13.10.02:739][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.10.02:936][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Marcel/MEchanicMAps/D/CY/F3B7WQBOSCFEPXCLS2CEEX
+[2024.04.17-13.10.02:936][545]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/F3B7WQBOSCFEPXCLS2CEEX450C11C94075FC964B1630BFDFF631AF.tmp' to '../../../../../LevelCyberpunk/Content/__ExternalActors__/Marcel/MEchanicMAps/D/CY/F3B7WQBOSCFEPXCLS2CEEX.uasset'
+[2024.04.17-13.10.02:953][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 10.2 sec)
+[2024.04.17-13.10.02:960][545]AssetCheck: New page: Asset Save: BP_Ammo_C_UAID_04D4C4AD12B80CED01_1872672543
+[2024.04.17-13.10.02:960][545]LogContentValidation: Display: Validating /Game/ThirdPerson/Gun/Ammo/BP_Ammo.BP_Ammo_C /Game/Marcel/MEchanicMAps.MEchanicMAps:PersistentLevel.BP_Ammo_C_UAID_04D4C4AD12B80CED01_1872672543
+[2024.04.17-13.13.02:618][864]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Enemy/BP_Enemy.BP_Enemy
+[2024.04.17-13.13.02:618][864]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.13.02:618][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.13.04:982][962]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.13.04:982][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.13.07:070][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.17-13.13.07:070][ 60]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.13.07:071][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.16.49:070][810]BlueprintLog: New page: Compile BP_Enemy
+[2024.04.17-13.16.49:148][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.17-13.16.50:022][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.16.50:094][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Enemy/BP_Enemy" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Enemy/BP_Enemy.uasset" SILENT=true
+[2024.04.17-13.16.50:120][848]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Enemy/BP_Enemy
+[2024.04.17-13.16.50:120][848]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_EnemyE934F09542805F8493A6E498CDB693A9.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Enemy/BP_Enemy.uasset'
+[2024.04.17-13.16.50:130][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 10.3 sec)
+[2024.04.17-13.16.50:134][848]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.04.17-13.16.50:134][848]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Enemy/BP_Enemy.BP_Enemy
+[2024.04.17-13.16.52:877][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-13.16.52:886][ 41]LogContentBundle: [MEchanicMAps(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-13.16.52:886][ 41]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' started...
+[2024.04.17-13.16.52:887][ 41]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' took 1 ms (total: 100 ms)
+[2024.04.17-13.16.52:887][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-13.16.52:888][ 41]PIE: New page: PIE session: MEchanicMAps (17 kwi 2024, 17:16:52)
+[2024.04.17-13.16.52:891][ 41]LogPlayLevel: Creating play world package: /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.16.52:898][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006046s)
+[2024.04.17-13.16.52:898][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Marcel/MEchanicMAps.MEchanicMAps to /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps (0.006075s)
+[2024.04.17-13.16.52:912][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.17-13.16.52:916][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.16.52:916][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.16.52:917][ 41]LogAIModule: Creating AISystem for world MEchanicMAps
+[2024.04.17-13.16.52:917][ 41]LogWorldPartition: ULevel::OnLevelLoaded(MEchanicMAps)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-13.16.52:917][ 41]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-13.16.52:917][ 41]LogWorldPartition: UWorldPartition::Initialize : World = MEchanicMAps, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-13.16.52:917][ 41]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-13.16.52:918][ 41]LogContentBundle: [MEchanicMAps(Standalone)] Creating new contrainer.
+[2024.04.17-13.16.52:918][ 41]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 415 ms)
+[2024.04.17-13.16.52:918][ 41]LogPlayLevel: PIE: World Init took: (0.002886s)
+[2024.04.17-13.16.52:918][ 41]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.04.17-13.16.52:918][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-13.16.52:918][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-13.16.52:919][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-13.16.52:919][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-13.16.52:919][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-13.16.52:919][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-13.16.52:919][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-13.16.52:919][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-13.16.52:919][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-13.16.52:919][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-13.16.52:919][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-13.16.52:921][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-13.16.52:939][ 41]LogAudioMixer: Display: Using Audio Hardware Device Acer VG240Y (Audio dla wyświetlaczy Intel(R))
+[2024.04.17-13.16.52:939][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-13.16.52:939][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-13.16.52:939][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-13.16.52:940][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.04.17-13.16.52:940][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.04.17-13.16.52:942][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.04.17-13.16.52:942][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.04.17-13.16.52:942][ 41]LogInit: FAudioDevice initialized with ID 42.
+[2024.04.17-13.16.52:942][ 41]LogAudio: Display: Audio Device (ID: 42) registered with world 'MEchanicMAps'.
+[2024.04.17-13.16.52:942][ 41]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.04.17-13.16.52:945][ 41]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-13.16.52:949][ 41]LogWorld: Bringing World /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps up for play (max tick rate 0) at 2024.04.17-15.16.52
+[2024.04.17-13.16.52:949][ 41]LogWorld: Bringing up level for play took: 0.003702
+[2024.04.17-13.16.52:951][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_116
+[2024.04.17-13.16.52:954][ 41]PIE: Server logged in
+[2024.04.17-13.16.52:954][ 41]PIE: Play in editor total start time 0,068 seconds.
+[2024.04.17-13.17.29:223][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.17.29:223][184]LogWorld: BeginTearingDown for /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.17.29:223][184]LogWorld: UWorld::CleanupWorld for MEchanicMAps, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.17.29:224][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.17.29:224][184]LogContentBundle: [MEchanicMAps(Standalone)] Deleting container.
+[2024.04.17-13.17.29:226][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-13.17.29:232][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.17.29:246][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.17.29:247][184]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.04.17-13.17.29:247][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.04.17-13.17.29:248][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.04.17-13.17.29:254][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.17-13.17.29:316][185]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2024.04.17-13.17.35:810][721]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-13.17.35:816][721]LogContentBundle: [MEchanicMAps(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-13.17.35:816][721]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' started...
+[2024.04.17-13.17.35:818][721]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' took 2 ms (total: 102 ms)
+[2024.04.17-13.17.35:819][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-13.17.35:819][721]PIE: New page: PIE session: MEchanicMAps (17 kwi 2024, 17:17:35)
+[2024.04.17-13.17.35:819][721]LogPlayLevel: Creating play world package: /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.17.35:825][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005682s)
+[2024.04.17-13.17.35:825][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Marcel/MEchanicMAps.MEchanicMAps to /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps (0.005718s)
+[2024.04.17-13.17.35:840][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.17-13.17.35:841][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.17.35:841][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.17.35:842][721]LogAIModule: Creating AISystem for world MEchanicMAps
+[2024.04.17-13.17.35:842][721]LogWorldPartition: ULevel::OnLevelLoaded(MEchanicMAps)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-13.17.35:842][721]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-13.17.35:842][721]LogWorldPartition: UWorldPartition::Initialize : World = MEchanicMAps, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-13.17.35:843][721]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-13.17.35:844][721]LogContentBundle: [MEchanicMAps(Standalone)] Creating new contrainer.
+[2024.04.17-13.17.35:844][721]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 417 ms)
+[2024.04.17-13.17.35:844][721]LogPlayLevel: PIE: World Init took: (0.003141s)
+[2024.04.17-13.17.35:844][721]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.04.17-13.17.35:844][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-13.17.35:844][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-13.17.35:845][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-13.17.35:845][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-13.17.35:845][721]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-13.17.35:845][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-13.17.35:845][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-13.17.35:845][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-13.17.35:845][721]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-13.17.35:845][721]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-13.17.35:845][721]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-13.17.35:847][721]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-13.17.35:863][721]LogAudioMixer: Display: Using Audio Hardware Device Acer VG240Y (Audio dla wyświetlaczy Intel(R))
+[2024.04.17-13.17.35:864][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-13.17.35:864][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-13.17.35:864][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-13.17.35:864][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.04.17-13.17.35:864][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.04.17-13.17.35:866][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.04.17-13.17.35:866][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.04.17-13.17.35:866][721]LogInit: FAudioDevice initialized with ID 43.
+[2024.04.17-13.17.35:866][721]LogAudio: Display: Audio Device (ID: 43) registered with world 'MEchanicMAps'.
+[2024.04.17-13.17.35:866][721]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.04.17-13.17.35:868][721]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-13.17.35:871][721]LogWorld: Bringing World /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps up for play (max tick rate 0) at 2024.04.17-15.17.35
+[2024.04.17-13.17.35:871][721]LogWorld: Bringing up level for play took: 0.003554
+[2024.04.17-13.17.35:873][721]LogOnline: OSS: Created online subsystem instance for: :Context_117
+[2024.04.17-13.17.35:876][721]PIE: Server logged in
+[2024.04.17-13.17.35:876][721]PIE: Play in editor total start time 0,061 seconds.
+[2024.04.17-13.17.59:573][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.17.59:573][838]LogWorld: BeginTearingDown for /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.17.59:573][838]LogWorld: UWorld::CleanupWorld for MEchanicMAps, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.17.59:574][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.17.59:574][838]LogContentBundle: [MEchanicMAps(Standalone)] Deleting container.
+[2024.04.17-13.17.59:577][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-13.17.59:581][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.17.59:594][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.17.59:595][838]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.04.17-13.17.59:595][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.04.17-13.17.59:596][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.04.17-13.17.59:602][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.17-13.17.59:660][839]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2024.04.17-13.22.19:807][646]BlueprintLog: New page: Compile BP_Enemy
+[2024.04.17-13.22.19:858][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.17-13.22.20:343][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.22.20:438][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Enemy/BP_Enemy" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Enemy/BP_Enemy.uasset" SILENT=true
+[2024.04.17-13.22.20:456][663]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Enemy/BP_Enemy
+[2024.04.17-13.22.20:457][663]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_EnemyCFAD921D4C9580967BEBB5979B9D7238.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Enemy/BP_Enemy.uasset'
+[2024.04.17-13.22.20:463][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 10.4 sec)
+[2024.04.17-13.22.20:466][663]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.04.17-13.22.20:466][663]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Enemy/BP_Enemy.BP_Enemy
+[2024.04.17-13.22.34:874][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.17-13.22.34:874][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.22.34:874][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.26.21:514][726]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2024.04.17-13.26.48:893][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.26.48:949][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.04.17-13.26.48:983][148]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.17-13.26.48:983][148]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacterA19484004D6E010E85DD4C9F6E21CC68.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.17-13.26.48:990][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 10.5 sec)
+[2024.04.17-13.26.48:992][148]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.17-13.26.48:992][148]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.17-13.26.51:025][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-13.26.51:031][290]LogContentBundle: [MEchanicMAps(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-13.26.51:031][290]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' started...
+[2024.04.17-13.26.51:034][290]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' took 2 ms (total: 105 ms)
+[2024.04.17-13.26.51:034][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-13.26.51:034][290]PIE: New page: PIE session: MEchanicMAps (17 kwi 2024, 17:26:51)
+[2024.04.17-13.26.51:035][290]LogPlayLevel: Creating play world package: /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.26.51:048][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012603s)
+[2024.04.17-13.26.51:048][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Marcel/MEchanicMAps.MEchanicMAps to /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps (0.012684s)
+[2024.04.17-13.26.51:063][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.17-13.26.51:065][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.26.51:065][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.26.51:065][290]LogAIModule: Creating AISystem for world MEchanicMAps
+[2024.04.17-13.26.51:066][290]LogWorldPartition: ULevel::OnLevelLoaded(MEchanicMAps)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-13.26.51:066][290]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-13.26.51:066][290]LogWorldPartition: UWorldPartition::Initialize : World = MEchanicMAps, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-13.26.51:066][290]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-13.26.51:067][290]LogContentBundle: [MEchanicMAps(Standalone)] Creating new contrainer.
+[2024.04.17-13.26.51:067][290]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 418 ms)
+[2024.04.17-13.26.51:067][290]LogPlayLevel: PIE: World Init took: (0.002171s)
+[2024.04.17-13.26.51:067][290]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.04.17-13.26.51:067][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-13.26.51:067][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-13.26.51:067][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-13.26.51:067][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-13.26.51:067][290]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-13.26.51:067][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-13.26.51:067][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-13.26.51:067][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-13.26.51:068][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-13.26.51:068][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-13.26.51:068][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-13.26.51:069][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-13.26.51:087][290]LogAudioMixer: Display: Using Audio Hardware Device Acer VG240Y (Audio dla wyświetlaczy Intel(R))
+[2024.04.17-13.26.51:088][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-13.26.51:088][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-13.26.51:088][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-13.26.51:088][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.04.17-13.26.51:088][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.04.17-13.26.51:090][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.04.17-13.26.51:090][290]LogInit: FAudioDevice initialized with ID 44.
+[2024.04.17-13.26.51:090][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.04.17-13.26.51:090][290]LogAudio: Display: Audio Device (ID: 44) registered with world 'MEchanicMAps'.
+[2024.04.17-13.26.51:090][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.04.17-13.26.51:092][290]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-13.26.51:095][290]LogWorld: Bringing World /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps up for play (max tick rate 0) at 2024.04.17-15.26.51
+[2024.04.17-13.26.51:096][290]LogWorld: Bringing up level for play took: 0.003557
+[2024.04.17-13.26.51:097][290]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2024.04.17-13.26.51:100][290]PIE: Server logged in
+[2024.04.17-13.26.51:100][290]PIE: Play in editor total start time 0,069 seconds.
+[2024.04.17-13.27.04:723][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.27.04:723][498]LogWorld: BeginTearingDown for /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.27.04:723][498]LogWorld: UWorld::CleanupWorld for MEchanicMAps, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.27.04:723][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.27.04:724][498]LogContentBundle: [MEchanicMAps(Standalone)] Deleting container.
+[2024.04.17-13.27.04:726][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-13.27.04:730][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.27.04:744][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.17-13.27.04:744][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.04.17-13.27.04:744][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.04.17-13.27.04:746][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.04.17-13.27.04:749][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.27.04:752][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.17-13.27.04:811][499]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2024.04.17-13.27.08:249][654]Cmd: TRANSACTION UNDO
+[2024.04.17-13.27.08:249][654]LogEditorTransaction: Undo Attach Component
+[2024.04.17-13.27.08:260][654]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2024.04.17-13.27.08:263][654]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2024.04.17-13.27.11:350][786]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.17-13.27.11:449][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.17-13.27.11:927][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.27.11:989][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.04.17-13.27.12:024][798]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.17-13.27.12:024][798]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacterBD417D0E41A5854E0364A491B202D845.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.17-13.27.12:031][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 10.6 sec)
+[2024.04.17-13.27.12:032][798]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.17-13.27.12:032][798]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.17-13.27.14:057][929]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-13.27.14:063][929]LogContentBundle: [MEchanicMAps(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-13.27.14:063][929]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' started...
+[2024.04.17-13.27.14:066][929]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' took 2 ms (total: 107 ms)
+[2024.04.17-13.27.14:066][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-13.27.14:066][929]PIE: New page: PIE session: MEchanicMAps (17 kwi 2024, 17:27:14)
+[2024.04.17-13.27.14:093][929]LogPlayLevel: Creating play world package: /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.27.14:098][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004699s)
+[2024.04.17-13.27.14:098][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Marcel/MEchanicMAps.MEchanicMAps to /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps (0.004731s)
+[2024.04.17-13.27.14:111][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.17-13.27.14:116][929]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.27.14:116][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.27.14:116][929]LogAIModule: Creating AISystem for world MEchanicMAps
+[2024.04.17-13.27.14:117][929]LogWorldPartition: ULevel::OnLevelLoaded(MEchanicMAps)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-13.27.14:117][929]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-13.27.14:117][929]LogWorldPartition: UWorldPartition::Initialize : World = MEchanicMAps, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-13.27.14:117][929]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-13.27.14:118][929]LogContentBundle: [MEchanicMAps(Standalone)] Creating new contrainer.
+[2024.04.17-13.27.14:118][929]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 419 ms)
+[2024.04.17-13.27.14:118][929]LogPlayLevel: PIE: World Init took: (0.002098s)
+[2024.04.17-13.27.14:118][929]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.04.17-13.27.14:118][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-13.27.14:118][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-13.27.14:118][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-13.27.14:118][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-13.27.14:118][929]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-13.27.14:118][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-13.27.14:118][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-13.27.14:118][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-13.27.14:119][929]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-13.27.14:119][929]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-13.27.14:119][929]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-13.27.14:120][929]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-13.27.14:138][929]LogAudioMixer: Display: Using Audio Hardware Device Acer VG240Y (Audio dla wyświetlaczy Intel(R))
+[2024.04.17-13.27.14:138][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-13.27.14:138][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-13.27.14:138][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-13.27.14:139][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.04.17-13.27.14:139][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.04.17-13.27.14:140][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.04.17-13.27.14:140][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.04.17-13.27.14:140][929]LogInit: FAudioDevice initialized with ID 45.
+[2024.04.17-13.27.14:140][929]LogAudio: Display: Audio Device (ID: 45) registered with world 'MEchanicMAps'.
+[2024.04.17-13.27.14:140][929]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.04.17-13.27.14:142][929]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-13.27.14:145][929]LogWorld: Bringing World /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps up for play (max tick rate 0) at 2024.04.17-15.27.14
+[2024.04.17-13.27.14:146][929]LogWorld: Bringing up level for play took: 0.003481
+[2024.04.17-13.27.14:148][929]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2024.04.17-13.27.14:150][929]PIE: Server logged in
+[2024.04.17-13.27.14:151][929]PIE: Play in editor total start time 0,088 seconds.
+[2024.04.17-13.27.46:713][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.27.46:713][851]LogWorld: BeginTearingDown for /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.27.46:714][851]LogWorld: UWorld::CleanupWorld for MEchanicMAps, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.27.46:714][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.27.46:714][851]LogContentBundle: [MEchanicMAps(Standalone)] Deleting container.
+[2024.04.17-13.27.46:716][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-13.27.46:721][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.27.46:735][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.17-13.27.46:736][851]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.04.17-13.27.46:736][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.04.17-13.27.46:737][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.04.17-13.27.46:740][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.27.46:744][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.17-13.27.46:802][852]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2024.04.17-13.27.56:034][608]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Gun/BP_Bullet.BP_Bullet
+[2024.04.17-13.27.56:034][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.27.56:034][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.28.10:346][402]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2024.04.17-13.29.15:867][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.17-13.29.15:869][611]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Marcel/MEchanicMAps' took 0.021
+[2024.04.17-13.29.15:870][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.17-13.29.15:870][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.17-13.29.15:905][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2024.04.17-13.29.15:905][611]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacter_Auto805D53D0740712BD9CA5D7789238F7AF7.tmp' to '../../../../../LevelCyberpunk/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2024.04.17-13.29.15:905][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/Reload_Rifle_Hip_Montage] ([1] browsable assets)...
+[2024.04.17-13.29.15:905][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Reload_Rifle_Hip_Montage]
+[2024.04.17-13.29.15:908][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimStarterPack/Reload_Rifle_Hip_Montage_Auto8
+[2024.04.17-13.29.15:908][611]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/Reload_Rifle_Hip_Montage_Auto80AA86D6A470282A461CADFBDADAE4C1F.tmp' to '../../../../../LevelCyberpunk/Saved/Autosaves/Game/AnimStarterPack/Reload_Rifle_Hip_Montage_Auto8.uasset'
+[2024.04.17-13.29.15:909][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage] ([1] browsable assets)...
+[2024.04.17-13.29.15:909][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage]
+[2024.04.17-13.29.15:912][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage_Auto8
+[2024.04.17-13.29.15:912][611]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/Reload_Rifle_Ironsights_Montage_9F8CA0FE4C60879B452653840712FD02.tmp' to '../../../../../LevelCyberpunk/Saved/Autosaves/Game/AnimStarterPack/Reload_Rifle_Ironsights_Montage_Auto8.uasset'
+[2024.04.17-13.29.15:912][611]LogFileHelpers: Auto-saving content packages took 0.043
+[2024.04.17-13.31.22:706][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.31.22:767][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.04.17-13.31.22:802][206]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.17-13.31.22:803][206]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/BP_ThirdPersonCharacter735066B84005506A8D326B942D2EEF89.tmp' to '../../../../../LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.17-13.31.22:810][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 10.7 sec)
+[2024.04.17-13.31.22:812][206]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.17-13.31.22:812][206]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.17-13.31.24:919][353]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-13.31.24:927][353]LogContentBundle: [MEchanicMAps(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-13.31.24:927][353]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' started...
+[2024.04.17-13.31.24:931][353]LogWorldPartition: Display: GenerateStreaming for 'MEchanicMAps' took 3 ms (total: 111 ms)
+[2024.04.17-13.31.24:931][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-13.31.24:931][353]PIE: New page: PIE session: MEchanicMAps (17 kwi 2024, 17:31:24)
+[2024.04.17-13.31.24:973][353]LogPlayLevel: Creating play world package: /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.31.24:977][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004648s)
+[2024.04.17-13.31.24:977][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Marcel/MEchanicMAps.MEchanicMAps to /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps (0.004684s)
+[2024.04.17-13.31.24:989][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.17-13.31.24:991][353]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.31.24:991][353]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.31.24:991][353]LogAIModule: Creating AISystem for world MEchanicMAps
+[2024.04.17-13.31.24:991][353]LogWorldPartition: ULevel::OnLevelLoaded(MEchanicMAps)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-13.31.24:991][353]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-13.31.24:991][353]LogWorldPartition: UWorldPartition::Initialize : World = MEchanicMAps, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-13.31.24:991][353]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-13.31.24:993][353]LogContentBundle: [MEchanicMAps(Standalone)] Creating new contrainer.
+[2024.04.17-13.31.24:993][353]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 421 ms)
+[2024.04.17-13.31.24:993][353]LogPlayLevel: PIE: World Init took: (0.002163s)
+[2024.04.17-13.31.24:993][353]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2024.04.17-13.31.24:993][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-13.31.24:993][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-13.31.24:993][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-13.31.24:993][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-13.31.24:993][353]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-13.31.24:993][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-13.31.24:993][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-13.31.24:993][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-13.31.24:993][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-13.31.24:993][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-13.31.24:993][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-13.31.24:995][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-13.31.25:012][353]LogAudioMixer: Display: Using Audio Hardware Device Acer VG240Y (Audio dla wyświetlaczy Intel(R))
+[2024.04.17-13.31.25:012][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-13.31.25:013][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-13.31.25:013][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-13.31.25:013][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2024.04.17-13.31.25:013][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2024.04.17-13.31.25:015][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2024.04.17-13.31.25:015][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2024.04.17-13.31.25:018][353]LogInit: FAudioDevice initialized with ID 46.
+[2024.04.17-13.31.25:018][353]LogAudio: Display: Audio Device (ID: 46) registered with world 'MEchanicMAps'.
+[2024.04.17-13.31.25:018][353]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2024.04.17-13.31.25:020][353]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-13.31.25:024][353]LogWorld: Bringing World /Game/Marcel/UEDPIE_0_MEchanicMAps.MEchanicMAps up for play (max tick rate 0) at 2024.04.17-15.31.25
+[2024.04.17-13.31.25:024][353]LogWorld: Bringing up level for play took: 0.003718
+[2024.04.17-13.31.25:027][353]LogOnline: OSS: Created online subsystem instance for: :Context_122
+[2024.04.17-13.31.25:030][353]PIE: Server logged in
+[2024.04.17-13.31.25:030][353]PIE: Play in editor total start time 0,103 seconds.
+[2024.04.17-13.32.32:003][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.32.32:003][296]LogWorld: BeginTearingDown for /Game/Marcel/UEDPIE_0_MEchanicMAps
+[2024.04.17-13.32.32:003][296]LogWorld: UWorld::CleanupWorld for MEchanicMAps, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.32.32:004][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.32.32:004][296]LogContentBundle: [MEchanicMAps(Standalone)] Deleting container.
+[2024.04.17-13.32.32:008][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-13.32.32:014][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.32.32:029][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.32.32:029][296]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2024.04.17-13.32.32:029][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.04.17-13.32.32:030][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.04.17-13.32.32:036][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.17-13.32.32:123][297]LogPlayLevel: Display: Destroying online subsystem :Context_122
