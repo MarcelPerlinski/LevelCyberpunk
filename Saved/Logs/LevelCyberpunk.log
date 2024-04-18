@@ -6316,3 +6316,85 @@ Make sure 'BP_Enemy_C' has been compiled for  Get Current Mag
 [2024.04.18-16.43.58:490][ 58]LogContentValidation: Display: Validating /Game/ThirdPerson/Enemy/BP_Enemy.BP_Enemy_C /Game/Marcel/MEchanicMAps.MEchanicMAps:PersistentLevel.BP_Enemy_C_UAID_04D4C4AD12B8BCEC01_1971204470
 [2024.04.18-16.43.58:490][ 58]LogContentValidation: Display: Validating /Game/ThirdPerson/Enemy/BP_Enemy.BP_Enemy_C /Game/Marcel/MEchanicMAps.MEchanicMAps:PersistentLevel.BP_Enemy_C_UAID_04D4C4AD12B8B9EC01_1645149941
 [2024.04.18-16.43.58:490][ 58]LogContentValidation: Display: Validating /Game/ThirdPerson/Enemy/BP_Enemy.BP_Enemy_C /Game/Marcel/MEchanicMAps.MEchanicMAps:PersistentLevel.BP_Enemy_C_UAID_04D4C4AD12B8BCEC01_1973893471
+[2024.04.18-16.44.28:226][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.18-16.44.29:677][408]LogSlate: Window 'Save Content' being destroyed
+[2024.04.18-16.44.29:721][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-16.44.29:806][408]LogSavePackage: Moving output files for package: /Game/StarterContent/Characters/Mannequins/Animations/ABP_Manny
+[2024.04.18-16.44.29:807][408]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/ABP_Manny0EA95B3149ADE1DCF567CA8185E9154C.tmp' to '../../../../../LevelCyberpunk/Content/StarterContent/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.04.18-16.44.29:811][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Ironsights_Montage" FILE="../../../../../LevelCyberpunk/Content/AnimStarterPack/Idle_Rifle_Ironsights_Montage.uasset" SILENT=true
+[2024.04.18-16.44.29:811][408]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Idle_Rifle_Ironsights_Montage
+[2024.04.18-16.44.29:811][408]LogSavePackage: Moving '../../../../../LevelCyberpunk/Saved/Idle_Rifle_Ironsights_MontageBB0CDCF64B886AF5D80AE09AE2B02C1C.tmp' to '../../../../../LevelCyberpunk/Content/AnimStarterPack/Idle_Rifle_Ironsights_Montage.uasset'
+[2024.04.18-16.44.29:824][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 12.4 sec)
+[2024.04.18-16.44.29:829][408]LogStall: Shutdown...
+[2024.04.18-16.44.29:836][408]LogStall: Shutdown complete.
+[2024.04.18-16.44.29:955][408]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.18-16.44.29:955][408]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.29:955][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-16.44.30:996][408]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.18-16.44.30:996][408]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.30:997][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-16.44.31:180][408]LogSlate: Window 'WB_ENEMYLIFE' being destroyed
+[2024.04.18-16.44.31:251][408]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.31:251][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-16.44.31:259][408]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.31:259][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-16.44.31:329][408]LogSlate: Window 'LevelCyberpunk - Unreal Editor' being destroyed
+[2024.04.18-16.44.31:646][408]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.18-16.44.31:646][408]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/StarterContent/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.04.18-16.44.31:646][408]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/AnimStarterPack/Idle_Rifle_Ironsights_Montage.Idle_Rifle_Ironsights_Montage
+[2024.04.18-16.44.31:651][409]Cmd: QUIT_EDITOR
+[2024.04.18-16.44.31:652][409]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.18-16.44.31:663][409]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.18-16.44.31:664][409]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.18-16.44.31:665][409]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.18-16.44.31:674][409]LogWorld: UWorld::CleanupWorld for MEchanicMAps, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.31:674][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-16.44.31:677][409]LogContentBundle: [MEchanicMAps(Standalone)] Deleting container.
+[2024.04.18-16.44.31:704][409]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.04.18-16.44.32:230][409]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.04.18-16.44.32:230][409]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.04.18-16.44.32:230][409]LogAudio: Display: Audio Device unregistered from world 'MEchanicMAps'.
+[2024.04.18-16.44.32:230][409]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.04.18-16.44.32:231][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.18-16.44.32:235][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.18-16.44.32:251][409]LogAudio: Display: Audio Device Manager Shutdown
+[2024.04.18-16.44.32:253][409]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2024.04.18-16.44.32:262][409]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.04.18-16.44.32:263][409]LogExit: Preparing to exit.
+[2024.04.18-16.44.32:332][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.18-16.44.32:354][409]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:355][409]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:360][409]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:362][409]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:363][409]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.32:363][409]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-16.44.33:546][409]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:549][409]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:551][409]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:554][409]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:556][409]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:558][409]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:560][409]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:563][409]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:565][409]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:567][409]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:570][409]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:572][409]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:574][409]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-16.44.33:843][409]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.04.18-16.44.34:621][409]LogExit: Editor shut down
+[2024.04.18-16.44.34:636][409]LogExit: Transaction tracking system shut down
