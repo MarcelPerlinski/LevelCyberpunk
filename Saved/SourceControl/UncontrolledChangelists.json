@@ -7,7 +7,11 @@
 			"files": [
 				"D:/LevelCyberpunk/Content/ThirdPerson/Enemy/BP_Enemy.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/LevelCyberpunk/Content/ThirdPerson/Gun/BP_Bullet.uasset"
+				"D:/LevelCyberpunk/Content/ThirdPerson/Gun/BP_Bullet.uasset",
+				"D:/LevelCyberpunk/Content/ThirdPerson/Enemy/WB_ENEMYLIFE.uasset",
+				"D:/LevelCyberpunk/Content/__ExternalActors__/Marcel/MEchanicMAps/1/J6/RU4P8LIYAX53JQ2VFU8D04.uasset",
+				"D:/LevelCyberpunk/Content/__ExternalActors__/Marcel/MEchanicMAps/2/OL/TPYAMSROBFAO75EA8B5NNG.uasset",
+				"D:/LevelCyberpunk/Content/__ExternalActors__/Marcel/MEchanicMAps/9/6E/SH09MGA76ZVISDTDXR85OP.uasset"
 			]
 		}
 	]
