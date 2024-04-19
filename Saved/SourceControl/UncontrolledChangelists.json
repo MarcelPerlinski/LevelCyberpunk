@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/Building_2.uasset",
-				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/SkyAtm.uasset",
 				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/MAIN_MAP/MAIN_MAP/1/BN/126ZRNA34E2KRM6EUVVZEO.uasset",
 				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/MAIN_MAP/MAIN_MAP/4/VZ/2ACUMTS01HVKTLG94A1931.uasset",
 				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/MAIN_MAP/MAIN_MAP/8/DL/9SBDNMXIHHIODFYQ3J2WNA.uasset",
@@ -19,6 +18,9 @@
 				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/MAIN_MAP/MAIN_MAP/7/O6/ZDSA03HNVQ3HZBVZW5HMQT.uasset",
 				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/MAIN_MAP/MAIN_MAP/3/SV/1P59UZZL9LSECHGFW7QR5J.uasset",
 				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/MAIN_MAP/MAIN_MAP/F/4A/IFQLTIDCR5MYZ3GHZF8MSC.uasset",
+				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/building_7.uasset",
+				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/__ExternalActors__/MAIN_MAP/MAIN_MAP/5/QJ/OP4D7ZBRARA2TBPT22OXSI.uasset",
+				"E:/FUTUREGAMES/Nowy folder/LevelCyberpunk/Content/Joanna/SkyAtm.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Enemy/BP_Enemy.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Gun/BP_Bullet.uasset",
