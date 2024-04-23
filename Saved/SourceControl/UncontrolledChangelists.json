@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Projects/LevelCyberpunk/Content/__ExternalActors__/Maciej/MaciejMaps/B/UQ/1LQYPE711BTC3QWC6YVOK3.uasset",
+				"D:/Projects/LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Projects/LevelCyberpunk/Content/__ExternalActors__/Maciej/MaciejMaps/8/YM/0LANLQL1T4TB4INLSOPQWQ.uasset",
+				"D:/Projects/LevelCyberpunk/Content/__ExternalActors__/Maciej/MaciejMaps/C/3S/I33GW1TROIUEKJFP5CHOX1.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Enemy/BP_Enemy.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/LevelCyberpunk/Content/ThirdPerson/Gun/BP_Bullet.uasset",
